@@ -1,0 +1,11 @@
+QUESTION: Extract and list every instance in the provided documents where police evidence is described as dishonest, unreliable, inaccurate, or otherwise questioned. For each instance, include the relevant quote or passage from the documents.
+
+RESPONSE:
+Following are the instances where police evidence is described as dishonest, unreliable, inaccurate, or otherwise questioned:
+
+* Allegations of dishonesty were made which would have been impossible to make in the absence of collaboration. (From paragraph 14)
+* Following the decision of Underhill J in R (Saunders) v [PCC [2008] EWHC 2372 Admin, ACPO has modified its guidance... It also recommends that statements include details of any conferring which has taken place. See paragraphs 4.1 -4.8. This suggests that police evidence may not be independent or accurate.
+* The Higher Courts have repeatedly expressed concern about the practice of witnesses conferring in the preparation of their accounts. (From paragraph 45)
+* Serious consideration should also be given to audio- and video-recording of post-incident debriefings, implying that police evidence may not always be reliable.
+
+Note: These instances are based solely on the provided documents and do not rely on prior knowledge or speculation.
