@@ -1,0 +1,4 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the context, it appears that the document is a court transcript or proceedings, and the main findings are related to the jury's view in a coronial inquiry. Since the document only contains dates, times, and notes about adjournment, there are no specific findings relevant to the coroner's decision-making. The document does not provide any information about the case itself, the evidence presented, or the conclusions drawn by the jury.

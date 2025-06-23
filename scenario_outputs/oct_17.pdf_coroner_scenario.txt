@@ -1,0 +1,13 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on this excerpt from a court transcript, here are the main findings relevant to the coroner's decision-making:
+
+1. The purpose of the MASTS (Mobile Armed Support to Surveillance) operation was two-fold:
+	* To arrest and detain any suspect or subject coming from 21 Scotia Road.
+	* To gather intelligence if possible.
+2. The operation aimed to prevent the first category (suspect or subject) from getting on public transport, as a result of previous incidents on public transport.
+3. The objective was to stop the person away from the Scotia Road address to avoid compromising the operation and alerting others.
+4. For intelligence gathering, the goal was to keep the gatherers relatively nearby in the vicinity, far enough away not to compromise the address, but not trailing them all over London.
+
+These findings are relevant to the coroner's decision-making because they provide context for the events surrounding Jean Charles de Menezes' death and can inform the coroner's investigation into whether the police operation was proportionate and justified in the circumstances.

@@ -1,0 +1,11 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, here are the main findings that may be relevant to the coroner's decision-making:
+
+1. Sir Michael Wright recalled that JC (John Cremin) got back onto the number 2 bus at the same stop where it had stopped earlier, contradicting the surveillance log which stated that he caught the bus at a stop further down the road.
+2. The coroner's log from Mr. Cremin's notes mentions an entry "Followed [arrow] surveillance into station, entered tube, sat inside, confronted by SO19 team, shot in head, non-compliant" with a note "from SO19". This suggests that the information may have come from the SO19 team.
+3. The coroner noted the presence of small numbers 197 and 39 on the log page, which may be relevant to understanding the events that unfolded.
+4. The coroner's notes also mentioned an entry "SO19 black team, could there have been any confusion re: Kratos -- VE 'no'" which seems to refer to a question asked by Mr. Boutcher to Vince about potential confusion regarding Kratos, and the answer being "no".
+
+These findings may be relevant to the coroner's decision-making in determining the cause and circumstances of John Cremin's death.

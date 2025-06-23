@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the provided transcript, the main findings relevant to the coroner's decision-making are:
+
+1. The proposal to remove the anonymous witness corridor and screen off the back of the court when anonymous witnesses give evidence, which would increase available space in the courtroom.
+2. Three amendments were made to the jury bundle:
+   a. Tab 38, page 50: A sheet containing side-by-side photographs was removed from the bundle.
+   b. Divider 2, page 9 (bottom right): The entry "Geoff. Followed bus from Brixton to Stockwell" was corrected to reflect the correct direction of travel.
+   c. Under H3, "Ivor", the last sentence now reads: "Holding JC when C2 and C12 fired shots".
+
+These findings are relevant to the coroner's decision-making as they relate to the logistics and procedures for conducting the trial, including jury selection and witness testimony.

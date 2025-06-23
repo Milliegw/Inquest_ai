@@ -1,0 +1,13 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the provided transcript, the main findings relevant to the Coroner's decision-making are:
+
+1. Alpha 1 (the witness) made notes on July 22, 2005, which were later typed into a statement form.
+2. The witness did not see their original notes since making them but had seen a typed copy of them.
+3. On October 22, 2008, the witness made a further statement at the request of the Coroner.
+4. Alpha 1 was the team leader for the orange firearms team on July 21 and 22, 2005.
+5. The team consisted of 11 officers, including Alpha 1, who paraded for duty at 3:00 pm on July 21.
+6. The late turn duty, which normally concluded at 11:00 pm, was retained due to an SO12/SO13 operation.
+
+These findings are likely to be relevant to the Coroner's decision-making in determining the circumstances surrounding the events of July 21 and 22, 2005.

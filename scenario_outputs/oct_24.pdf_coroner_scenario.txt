@@ -1,0 +1,14 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on Detective Sergeant Piers Dingemans' testimony, the following points are relevant to the Coroner's decision-making:
+
+1. DS Dingemans was a detective sergeant in SO13, the Anti-Terrorist Branch of the Metropolitan Police, and was part of an arrest team on July 22, 2005.
+2. He was unarmed and in plain clothes that day.
+3. He made three witness statements about the events of July 22, 2005, including a first statement just days after the incident, a second substantial statement, and a third statement regarding telephone calls.
+4. DS Dingemans gave evidence at the Health and Safety trial on October 15, 2007.
+5. He arrived at New Scotland Yard around 7:00 am on July 22, 2005.
+6. The police were not working formal shifts due to the extraordinary situation following the 7/7 bombings.
+7. DS Dingemans had been involved in investigations arising from the failed bombings the previous day and had interviewed a person at Paddington that night.
+
+These findings may be relevant to the Coroner's decision-making as they provide context about the police response on July 22, 2005, including the composition of the arrest team, the fact that officers were unarmed and in plain clothes, and the impact of the previous day's events on their work.

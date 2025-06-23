@@ -1,0 +1,10 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, here are the main findings relevant to the coroner's decision-making:
+
+1. Frank was likely on his own when keeping watch from the van outside Scotia Road.
+2. There was no backup or deputy watching with Frank, although it may have been possible to replace him if needed.
+3. The surveillance team would have relied on the voters' register to verify who was living in each flat, including number 21 at Scotia Road.
+
+These findings are significant because they provide context for the events surrounding the death being investigated by the coroner. They may be relevant to determining whether any wrongdoing or negligence contributed to the death, and whether any individuals involved in the surveillance operation had a role in what happened.

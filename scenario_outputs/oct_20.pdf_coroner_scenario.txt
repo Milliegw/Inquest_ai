@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, here are the main findings that may be relevant to the coroner's decision-making:
+
+1. The witness, "Derek", arrived at the scene around 6 am and quickly established the location of bus stops in the vicinity.
+2. He identified a potential holding area at the TA Centre and a communal door for 21 Scotia Street.
+3. By 6:20 am, he had also located a car of interest parked near the communal door.
+4. All this information was relayed back to the operations room before 7 am.
+5. The witness's primary concern was ensuring that a subject or suspect did not get on public transport, given the events of the previous day and July 7th.
+
+These findings suggest that the witness was actively engaged in surveillance and gathering information about the area, with a focus on preventing potential threats from escaping or spreading through public transportation.

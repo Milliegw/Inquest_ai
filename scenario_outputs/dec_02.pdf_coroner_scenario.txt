@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on Sir Michael Wright's summing-up, here are the main findings relevant to the coroner's decision-making:
+
+1. The evidence is for the jury to decide what is relevant and significant, not for the coroner to determine.
+2. The jury must consider all the evidence presented over 36 days of testimony.
+3. The coroner will summarize the facts but will not repeat all the evidence heard during the inquest.
+4. The transcript of the evidence will be available for the jury's deliberations if needed.
+5. The jury is responsible for deciding what witnesses are honest, accurate, and reliable.
+
+These findings highlight the importance of the jury's role in evaluating the evidence and making a decision about the verdicts.

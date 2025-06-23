@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+The main findings relevant to the coroner's decision-making are:
+
+1. The plan for the next two days is to call witnesses in the following order: Nick, then Bernard, then Brian, and if time allows, to make a start on Pat.
+2. Owen's testimony has been delayed due to further enquiries being made in relation to him.
+3. A new document (SO12 branch note) has been received in relation to Brian, which everyone should now have received.
+4. The aim for Monday is to have Mr Esposito testify, followed by Trojan 84 on Tuesday and Mr Purser on Wednesday.
+5. If the timetable is adhered to, they will only be three witnesses behind schedule.
+
+The coroner is considering these points in relation to the overall timetable and whether it can be achieved.

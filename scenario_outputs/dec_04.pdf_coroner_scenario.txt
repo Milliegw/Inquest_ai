@@ -1,0 +1,11 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, the following are the main findings relevant to the coroner's decision-making:
+
+1. Corrections to previous statements:
+	* DCI Purser was not at home when he received the call; instead, he was in a nearby hotel.
+	* Mr. Purser was not in the control room at the TA Centre on July 22nd; he was actually in the control car of the firearms team.
+	* The description of Jean Charles' jacket as "bulky" was not a mistaken perception; rather, it is suggested that the officers came up with this description later to justify their claim that Mr. de Menezes was going to detonate a bomb.
+
+These corrections may impact the coroner's consideration of the evidence and any conclusions drawn about the events surrounding Jean Charles' death.

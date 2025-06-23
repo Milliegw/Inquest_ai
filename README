@@ -1,0 +1,80 @@
+# Inquest Document Analysis Pipeline
+
+This project provides tools to analyze inquest documents using local LLMs (Llama 3 via Ollama) and retrieval-augmented generation (RAG).
+
+## Setup
+
+1. **Install dependencies**  
+   - Python 3.10+  
+   - [Ollama](https://ollama.com/) (install and pull `llama3` and `nomic-embed-text` models)
+   - Python packages:
+     ```
+     pip install ollama llama-index-core llama-index-llms-ollama llama-index-embeddings-ollama
+     ```
+
+2. **Prepare your data**  
+   - Place all extracted `.txt` files in the `downloads` folder.
+
+## Usage
+
+### 1. Organize Files
+
+Run:
+```bash
+python organisefiles.py
+```
+This moves all `.txt` files from `downloads` to `plain_texts`.
+
+---
+
+### 2. Single Document, Single Prompt
+
+Edit `llamascript.py` to set your prompt and document, then run:
+```bash
+python llamascript.py
+```
+This will process one document and print/save the result.
+
+---
+
+### 3. Batch Scenario Analysis (Per Document)
+
+Edit `batch_llamascript.py` to set your scenario prompts.  
+Run:
+```bash
+python batch_llamascript.py
+```
+This will process **all documents** in `plain_texts` with each scenario prompt and save results in `scenario_outputs`.
+
+---
+
+### 4. Corpus-Level (Holistic) Analysis
+
+Edit `llamaindex.py` to set your holistic/cross-document question(s).  
+Run:
+```bash
+python llamaindex.py
+```
+This will build an index over all documents and answer your question(s) using the entire corpus.
+
+---
+
+## Scenario & Ethical Analysis
+
+- Use per-document outputs to see what each document says in isolation.
+- Use corpus-level outputs to see what emerges when all evidence is considered together.
+- Reflect on the results and document your methodology and findings.
+
+---
+
+## Troubleshooting
+
+- Ensure Ollama is running and the required models are pulled.
+- Make sure your Python environment has all dependencies installed.
+- Check file paths if you get "File not found" errors.
+
+---
+
+## License
+
+[Your license here]

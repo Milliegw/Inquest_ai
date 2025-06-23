@@ -1,0 +1,10 @@
+PROMPT: What evidence supports the police's version of events?
+
+RESPONSE:
+Based on the provided transcript, the evidence supporting the police's version of events includes:
+
+1. The witness's statement (Pat's testimony) regarding the strategy written on a whiteboard at the rear of the room in relation to persons leaving addresses under surveillance.
+2. The mention of Detective Superintendent Johnston being informed about the issue raised by Pat, indicating that there was a formal process in place for reporting and assessing potential suspects.
+3. The fact that the police were aware of the need to stop and assess individuals seen leaving addresses under surveillance, as evidenced by the presence of Commander Dick's name on the whiteboard.
+
+These pieces of evidence suggest that the police had a strategic approach in place for dealing with persons leaving addresses under surveillance, which was communicated to the witness (Pat) through written notes on a whiteboard.

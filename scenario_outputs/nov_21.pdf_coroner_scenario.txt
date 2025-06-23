@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on MS Leek's submissions, the main findings relevant to the coroner's decision-making are:
+
+1. The central issue is not the precise sequence of facts and events, but rather the issue of honest belief.
+2. Leaving traditional short form verdicts of lawful killing and open would still require eliciting the jury's response to the issue of justification in their verdict.
+3. There is no difficulty presented by directing the jury on self-defence or the constituents of lawful killing and an open verdict, as these issues are already addressed when asking whether the shots were justified.
+4. If the coroner decides not to leave unlawful killing on the table, then the jury would still need to be asked whether they found the shots were justified to the relevant standard.
+5. The drafting of narrative verdict form questions may affect the outcome.
+
+These findings suggest that even if the coroner chooses not to leave unlawful killing as an option, the jury would still need to consider the issue of justification in their verdict, and this could be addressed through directed verdicts or narrative verdict forms.

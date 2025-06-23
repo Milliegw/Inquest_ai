@@ -1,0 +1,11 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on this transcript, the main findings relevant to the coroner's decision-making are:
+
+1. Mr. Stern is concerned that Sir Michael Wright's previous statements were not entirely accurate factually, specifically regarding the involvement of C2 and C12 at Scotia Road.
+2. The involvement of C2 and C12 did not start until they arrived at Stockwell station, which contradicts Sir Michael Wright's earlier statement that they were not present at the early stage.
+3. Mr. Stern is seeking to clarify these points to avoid setting out an inaccurate fact before the jury.
+4. Sir Michael Wright acknowledges Mr. Stern's concerns and reiterates his previous statements about the inquest being inquisitorial in nature, allowing for a more open-ended discussion of the issues.
+
+These findings are relevant to the coroner's decision-making because they may influence how the evidence is presented to the jury and what conclusions can be drawn from it.

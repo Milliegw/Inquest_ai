@@ -1,0 +1,10 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the provided testimony from Dr. Kenneth Shorrocks, a pathologist, the main findings that are relevant to the coroner's decision-making are:
+
+1. The deceased, Jean Charles de Menezes, was pursued by armed police officers as part of an emergency response related to the planting of bombs on public transport in London.
+2. De Menezes vaulted over the ticket barrier at Stockwell tube station and ran downstairs onto a train, where he appeared to stumble before being immobilized by the police.
+3. The post-mortem examination was conducted on July 23, under the instruction of Mr. Sampson, the Coroner.
+
+These findings are relevant to the coroner's decision-making as they provide context for the events surrounding de Menezes' death and may have implications for the investigation into his killing by police officers.

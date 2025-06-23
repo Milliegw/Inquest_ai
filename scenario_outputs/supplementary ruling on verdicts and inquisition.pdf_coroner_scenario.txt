@@ -1,0 +1,13 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the provided context, the main findings relevant to the coroner's decision-making are:
+
+1. The coroner had previously decided not to leave an "unlawful killing" verdict to the jury.
+2. The coroner proposed leaving two short-form verdicts (lawful killing and open verdict) to the jury.
+3. Interested Persons, including the de Menezes family and officers C2 and C12, made submissions on the wording of the questions.
+4. The coroner entertained those submissions and revised the Verdict Questionnaire.
+5. The de Menezes family issued a judicial review claim and application for a stay of the Inquest, which was subsequently refused by Mr Justice Silber.
+6. The Administrative Court refused permission to seek judicial review of the coroner's decision not to leave an open question.
+
+These findings were relevant to the coroner's decision-making in considering what factual questions to leave to the jury and how to proceed with the Inquest.

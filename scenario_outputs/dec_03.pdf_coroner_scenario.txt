@@ -1,0 +1,11 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, the main findings relevant to the coroner's decision-making are:
+
+1. The research intelligence team was instructed to obtain photographs of Hussain Osman shortly after 4 am on July 22, but the DVLA photographs did not come through until midday on July 22.
+2. Detective Chief Inspector Southworth explained that it can take several hours to obtain photographs or intelligence from the DVLA and immigration authorities.
+3. DCI Southworth initially stated that the MPS/DVLA designated point of contact was only accessible outside office hours, but later corrected this in a subsequent statement after reviewing evidence provided by DC Martin Edwards.
+4. DC Martin Edwards' statement revealed that he is one of two DVLA liaison officers and that any enquiries made to the DVLA have to be made through him or another such officer. He stated that checks with the DVLA can be conducted outside office hours.
+
+These findings suggest that there may have been delays in obtaining photographs of Hussain Osman, which could impact the coroner's decision-making regarding the events surrounding his identification and the subsequent shooting.

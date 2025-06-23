@@ -1,0 +1,16 @@
+PROMPT: What evidence supports the police's version of events?
+
+RESPONSE:
+Based on the transcript, the evidence presented by Mr. Hough (on behalf of the Coroner) supporting the police's version of events includes:
+
+1. The witness's own statements about the events on July 22nd:
+	* The witness was a surveillance officer in SO12 Special Branch and made three statements about the events that day.
+	* The witness gave evidence at the Health and Safety trial on October 12, 2007.
+2. The witness's role in the grey surveillance team on July 22nd:
+	* The witness was part of the grey surveillance team on July 22nd.
+3. The briefing given by Mr. Whiddett and an officer referred to as Colin:
+	* The witness attended a briefing at New Scotland Yard that morning, where they were told about several suspects and shown photographs, including tab 37 of the jury bundle.
+4. The witness's questions and clarification sought during the briefing:
+	* The witness asked for clarification on what the word "contain" meant in the terms of surveillance of the subjects.
+
+These pieces of evidence suggest that the police had a specific plan or instruction in place to contain the premises or suspects, which was communicated to the witness through the briefing.

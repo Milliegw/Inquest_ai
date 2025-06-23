@@ -1,3 +1,4 @@
+import os
 import ollama
 
 def ask_llama(question, context):
@@ -21,17 +22,24 @@ except FileNotFoundError:
     context = ""
 
 question = "Summarize the main findings of this document."
-# if context:
-#     print("Querying Llama 3, please wait...")
-#     answer = ask_llama(question, context)
-#     print(answer)
-# else:
-#     print("No context to query.")
+
+instructions = (
+    "Instructions: Only answer using information found in the provided document. "
+    "If the answer is not present, say 'Not found in the document.' "
+    "Do not speculate, invent facts, or use outside knowledge. "
+    "Be concise and objective.\n\n"
+)
+
+# Create the summaries folder if it doesn't exist
+os.makedirs("summaries", exist_ok=True)
+
 if context:
     print("Querying Llama 3, please wait...")
-    answer = ask_llama(question, context)
-    # Save the summary to a file
-    summary_path = "downloads/dec_01_summary.txt"
+    full_prompt = instructions + question
+    answer = ask_llama(full_prompt, context)
+    # answer = ask_llama(question, context)
+    # Save the summary to the summaries folder
+    summary_path = "summaries/dec_01_summary.txt"
     with open(summary_path, "w") as out:
         out.write(answer)
     print(f"Summary saved to {summary_path}")

@@ -1,0 +1,10 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+The main findings relevant to the coroner's decision-making in this transcript are:
+
+1. The strategy set by Deputy Assistant Commissioner John McDowall on July 22, 2005, at 4:55 am was to control the premises at Scotia Road through covert surveillance, follow any person leaving the premises until it was safe to challenge them, and then stop them.
+2. The strategy was recorded in a red book (day book) carried by McDowall.
+3. A typed copy of the relevant pages from the red book has been prepared and is available for reference.
+
+These findings are relevant to the coroner's decision-making because they provide context about the events surrounding the attempted bombings on July 21, 2005, and the subsequent actions taken by McDowall and his team. The coroner will likely consider these findings when making a decision regarding the inquests into the deaths of those who were affected by the attempted bombings.

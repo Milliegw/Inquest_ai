@@ -1,0 +1,10 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on this transcript, here are the main findings relevant to the coroner's decision-making:
+
+1. Pat (witness) was aware of a strategy written on a whiteboard regarding persons leaving addresses under surveillance.
+2. The strategy attributed to Commander Dick stated that all persons seen to leave would be assessed, stopped with suitable precautions, and either arrested or spoken to.
+3. Pat raised concerns about the issue to Brian, the manager, who informed Detective Superintendent Johnston, and Pat was told to report any persons leaving the address to the SIO (senior investigating officer) for a strategic decision on whether to stop them.
+
+These findings are relevant to the coroner's decision-making as they provide insight into the police strategy and procedures in place at the time of the incident. The coroner may consider these facts when determining the cause and circumstances surrounding the death being investigated.

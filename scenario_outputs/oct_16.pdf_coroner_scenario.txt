@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the testimony of the officer involved in the Trojan 84 operation, the following key points are relevant to the coroner's decision-making:
+
+1. The objective was to detain a suspect who emerged from the block of flats at Scotia Road without compromising the covert operation.
+2. The officer understood that if the suspect got onto a bus or public transport, it would compromise the operation.
+3. A senior officer with control over the location and surveillance was necessary to ensure that the suspect was detained at a suitable distance.
+4. The officer was placed in an impossible position on the day of the operation, which highlights the lack of clear planning and coordination.
+5. A reconnaissance of the area was needed to determine the feasibility of detaining the suspect without compromising the operation.
+
+These findings suggest that there were significant flaws in the planning and execution of the operation, which may have contributed to the tragic outcome. The coroner will likely consider these factors when making a decision about the officer's actions and the broader implications for the operation.

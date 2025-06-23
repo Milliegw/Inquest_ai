@@ -1,0 +1,12 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on the transcript, the Coroner's Sir Michael Wright provided guidance and direction to the jury in the following key points:
+
+1. The jury should only consider evidence presented in the inquisition and questionnaire, and not consider other factors not listed.
+2. The jury should stick to the questionnaire and not introduce new ideas or factors that are not supported by the evidence.
+3. The Coroner's office had carefully formulated the questions in the inquisition and questionnaire with the assistance of all interested parties to ensure compliance with legal rules governing inquests.
+4. The Coroner emphasized the importance of impartiality and objectivity in the jury's deliberations, stating that they should only consider the evidence presented in court and not be influenced by external factors or pressure.
+5. The Coroner noted that the proceedings were stressful and distressing for many people involved, but emphasized that the jury's decisions should be based solely on the evidence heard in court.
+
+These findings are relevant to the Coroner's decision-making because they provide guidance to the jury on how to approach their deliberations and ensure that their verdict is fair and just.

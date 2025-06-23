@@ -1,0 +1,18 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making.
+
+RESPONSE:
+Based on this transcript, the main findings relevant to the coroner's decision-making are:
+
+1. The expected timeline for presenting evidence:
+	* Today (Thursday): Steve Swain and Chief Superintendent Tillbrook will be questioned.
+	* Tomorrow: An explosives expert and Mr Macbrayne will give testimony.
+	* Monday: Mr Mellody will appear, followed by Mr Macbrayne and Mr Reynolds to address any remaining matters.
+2. The expected completion of the evidence:
+	* The Coroner expects to finish presenting all evidence by Monday lunchtime.
+3. The timeline for the jury's involvement:
+	* The jury may have tomorrow afternoon off, and they won't be needed again until early December.
+4. Steve Swain's background and experience:
+	* He was a Chief Superintendent in the Metropolitan Police before retiring in January 2007.
+	* He was centrally involved in developing police strategies and tactics for dealing with suicide terrorists.
+
+These findings provide context for the Coroner's decision-making, which will be based on the evidence presented during the inquest.
