@@ -1,0 +1,426 @@
+H.M. CORONER FOR THE INNER SOUTH DISTRICT OF
+GREATER LONDON
+HM Assistant Deputy Coroner, Sir Michael Wright
+Inquest into the death of Jean-Charles de Menezes
+Rule 43 Report
+Introduction
+1. This report is prepared pursuant to Rule 43 of the Coroners Rules 1984, as
+amended by the Coroners (Amendment) Rules 2008. In essence, it contains
+my views on which Metropolitan Police systems and practices have been
+shown by the evidence in this Inquest to call for review.
+2. Rule 43(1) provides as follows :
+'Where ­
+(a) a coroner is holding an inquest into a person 's death;
+(b) the evidence gives rise to a concern that circumstances creating
+a risk of other deaths will occur, or will continue to exist, in the
+future; and
+(c) in the coroner's opinion, action should be taken to prevent the
+occurrence or continuance of such circumstances, or to
+eliminate or reduce the risk of death created by such
+circumstances,
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK • SE1 1YD
+PHONE: 020 7 525 6363 • FAX: 020 7 525 6356
+2
+the coroner may report the circumstances to a person who the coroner
+believes may have power to take such action.'
+It should be noted ~ h a t the Rule enables a C_Q!.JtneI~Q _dra w_attention-l: O-- _
+circumstances which did not actually cause the death of the particular
+deceased person with whom his inquest is con cerned.
+3. As requ ired by Rule 43(3), I made an announcement at the end of the Inqu est
+that I intended to make a Rule 43 Report to the Com missioner of Police of the
+Metropolis and to the Metropolitan Police Authority ['MPA'], and that I
+intend ed to copy it to the Home Secretary. Thi s Report is also being sent to
+the Lord Chancellor and to all those wh o were reco gnised as Properly
+Interested Persons with in the meaning of Rule 19. It will be for the Lord
+Chancellor to decid e whether to publish the Report and whether to send a copy
+to any other person. At the end of the Inquest, I expressed the opini on that the
+Report should be published at some stage. At present, this Report is provided
+to Prop erly Interested Person s on a confidential basi s.
+4. Within 56 days of the date of this Report, the Commissioner and the MPA are
+required to 'provide a written respons e containing (a) details of any action that
+has been taken or which it is proposed will be taken in response to the report
+or otherwise; or (b) an explanation as to why no action is proposed '. See Rule
+43A(l). An application can be made to me to ext end that deadline. Within
+the same 56-day time-scale, the Commissioner and the MPA are entitled to
+make representations to me as to whether their response(s) should be
+published to Properly Interested Persons.
+5. In preparing this Rep ort, I have had regard to all the evidence given in the
+course of the Inquest. I have also conside red further material which was
+provided to me by the Metropolitan Police Serv ice [' MPS '] concerning how
+their practices have dev eloped since the events under investigation at the
+Inquest (July 2005). In parti cular, Commander Stewart prepared an extremely
+thorou gh statement with extensive supporting materials. Those documents
+were provided to all other Properly Interested Persons. As well as the
+THE COR ONERS COURT· 1 TENNIS STREET SOUTHWAR K' SE1 1YD
+PH ONE: 020 7 52 5 6363 • FAX : 0 20 7 525 635 6
+3
+evidence and those additional materials, I have taken into account the
+conclusions of the Jury. They answered a number of questions, and some of
+their answers suggest that systemic failures OCCUlTed.
+6. It is the purpose of this Report to identify points of concern, not to prescribe
+specific solutions. That is best done by those who have the difficult task of
+overseeing policing in general and anti-terrorist operations in particular. This
+Report addresses the practices in use in July 2005. It is apparent from
+Commander Stewart's statement that the MPS has made efforts to resolve a
+number of the problems which are identified in this Report, but also that some
+matters remain to be addressed. I am in no position to comment on the likely
+effectiveness of any reforms which have been, or are to be, implemented.
+(1) Command Structure
+7. The Command Structure adopted for the operation on nnd July 2005 was
+repeatedly criticised as lacking clarity and being open to misunderstanding. In
+part, this was probably because the MPS was facing an unprecedented
+situation; a series of unsuccessful attempts at suicide attacks on the transport
+system. There were three strands to its operations: (i) the investigation of the
+crime; (ii) the operation to catch the bombers; and (iii) the effort to prevent
+further detonations by the suspects or others.
+(a) Gold / Silver / Bronze Structure
+8. As in most major operations, the Gold / Silver / Bronze command structure
+model was used. However, in this case, it was unclear precisely to what extent
+the Gold Commander was required to supervise the operation after setting his
+strategy. There was also argument in the Inquest as to the freedom of the
+Silver Commander to adjust or refine the Gold strategy. The ACPO Manual
+on Police Use of Firearms (at ChA, para. 3.6) lists a series of duties for the
+Gold Commander, including a duty to keep the strategy under review and a
+duty to document any changes. The MPS might usefully review the command
+structure and the Manual, and consider whether there can be further
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK • SE1 1YD
+PHONE : 020 7 525 6363 • FAX: 020 7 525 6356
+4
+clarification of the continuing role played by the Gold Commander after
+setting his strategy.
+(b) Maintenance of Chain ofCommand
+9. On the night of 21sr / n nd July 2005 , there was a period when the Gold
+Commander was absent and a period when both the Senior Investigating
+Officer in the manhunt and his Deputy were absent. These absences were
+necessary for the individuals to get some rest, and the control room was
+manned over the entire period. Nevertheless, some consideration should be
+given to ensuring that, in major operations, the chain of command is
+maintained when a Gold or Silver Commander is absent (eg. by nominating
+interim replacements).
+(c) DSO
+10. The command structure referred to was further adapted by the involvement of
+a Designated Senior Officer ['DSO']. This post was developed to ensure that
+an appropriate officer should be charged with giving a 'critical shot'
+authorisation in operations mounted against suicide terrorists. It is apparent
+that the DSO plays a different role when directing a response to a
+'spontaneous' report from a member of the public, as compared with the role
+he plays when involved in a 'pre-planned' or 'intelligence-led' operation.
+However, in all cases, it is important that all officers should know (i) when the
+DSO b ecomes involved in commanding an operation and (ii) precisely what
+command role he performs. Is the DSO to assume command from the start, or
+only to step in when an armed intervention is required?
+(2) Communications Systems
+11. The Jury concluded that the following factors (among others) contributed to
+the death ofMr de Menezes:
+THE CORONERS COURT · 1 TENNIS STREET SOUTHWARK ' SE1 1YD
+PHONE: 020 7 525 6 363 • FAX: 020 7 525 6356
+5
+• 'The fact that the views of the surveillance officers regarding
+identification were not accurately communicated to the command team
+and the firearms officers.' [Factor (f) in the Inquisition]
+• 'The fact that the position of the cars containing the firearms officers
+was not accurately known to the command team as the firearms
+officers were approaching Stockwell Station.' [Factor (g) in the
+Inquisition]
+• 'Any significant shortcomings in the communications system as it was
+operating on the day between the various teams on the ground and
+New Scotland Yard.' [Factor (h) in the Inquisition]
+12. A number of particular concerns arose during the course of the Inquest
+regarding communications systems. Some of these may have been addressed,
+as lessons have been learned and as technology has improved. I also recognise
+that some of the details of how the police have developed their
+communications systems may well be sensitive.
+(a) Radio Operation and Maintenance
+13. There were a number of difficulties in operating specific police radios on the
+morning of 22nd July 2005. These affected the surveillance team and the
+firearms team (especially motorcycle officers). These problems required
+surveillance officers to use impromptu relay systems and one firearms car
+radio to be repaired in the course of the operation.
+(b) Radio Coverage above Ground
+14. The Cougar radio system suffered from poor coverage and radio 'black spots' .
+A number of officers commented on the extremely poor signal they had.
+Many resorted to using mobile telephones to communicate with each other, an
+expedient which occupied valuable time in obtaining telephone numbers and
+which prevented messages being transmitted to a wider range of officers.
+Mobile telephones may be appropriate for confidential communications
+THE CORONERS COURT' 1 TENNIS STREET SOUTHWARK' SE1 1YD
+PHONE: 020 7 525 6363 • FAX: 020 7 525 6356
+6
+between particular officers, but undue reliance upon them prevents messages
+being heard and understood by the full range of officers involved in an
+operation.
+(c) Radio Coverage Underground
+15. None of the radio communications systems which officers used to speak to
+each other had any coverage on the London Underground system. This meant
+that the command team could not direct firearms officers after they had gone
+below ground at Stockwell Station.
+(d) Communication between Teams
+16. It is important to ensure that effective radio systems can be used to
+communicate between teams from different branches of the Metropolitan
+Police who are engaged in the same operation (including control room,
+firearms teams and surveillance teams) .
+(e) Language
+17. In the course of the Inquest, there were a number of instances where police
+terminology tended to confuse rather than to clarify. The word 'subject'
+appeared to bear the twin meanings of 'identified suspect' and 'person under
+surveillance'. The words 'intercept' and 'intervene' were said to bear distinct
+meanings, but were difficult to explain with clarity. The word 'control' was
+used to refer to a number of different forms of police activity, including
+watching an address and restraining a person. Words such as 'stop', 'detain',
+'contain' and 'deploy' were also apparently capable of being misinterpreted.
+(3) Radio Discipline
+18. As well as technical concerns, the Inquest highlighted two problems with radio
+discipline. These may also have some bearing on the contributory factors
+identified by the Jury (paragraph 11 above).
+(a) The Speaker Announcing Himself
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK • SE1 1YD
+PHONE: 020 7 525 6363 • FA X : 020 7 525 6356
+7
+19. There were a number of important radio communications in which the speaker
+did not identify himself either by name or by reference to his team . For
+example, firearms officers gave evidence that they heard important messages
+concerning identification ofMr de Menezes in the period from 9.50 to 9.55am.
+However, none was able to say specifically who was the speaker and the
+general belief that the speaker was a surveillance officer was a matter of
+assumption.
+(b) Acknowledging Messages
+20. There was no system whereby an officer was required to acknowledge a
+message addressed to him. For example, when the leader of the Grey
+surveillance team asked for a numerical confidence rating for identification of
+the person under surveillance, he was met with silence, which he assumed to
+be an inability to answer the question (rather than an inability to hear the
+question).
+(4) Location Information
+21. As mentioned above, the Jury concluded that the death of Mr de Menezes was
+caused in part by the fact that the position of the firearms officers was not
+accurately known to the command team. They also concluded that the death
+was caused in part by a failure 'to ensure that Mr de Menezes was stopped
+before he reached public transport' [Factor (c)]. Both of those conclusions
+draw attention to the importance of the command team having accurate
+information about the location under surveillance and the position and
+movements of officers.
+(a) Maps in the Control Room
+22. There was conflicting evidence as to whether or not maps of the area of Scotia
+Road were displayed in the control room during the material part of the
+operation. Guidance might usefully be given about the importance of
+displaying maps and attempting to plot the approximate locations of different
+teams. Of course, this may not be an exact science. Officers on the ground
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK· SE1 1YD
+PHONE: 020 7 525 6363 • FAX : 020 7 525 6356
+
+9
+their work on the day in question. In my view, procedures for making and
+communicating identifications do call for review.
+(a) Terminology
+27. Clear terminology ought to be used to indicate the level of confidence with
+which a particular identification is made . Some evidence was given to the
+effect that new practices had been introduced in this regard. It is obviously
+important that, where firearms officers are to be ordered to intervene based
+upon an identification of a suspect, all officers should understand the quality
+of the identification which has been made.
+(b) Use ofPhotographs
+28. It would assist identification in many cases if a surveillance officer was able to
+check a photograph of the suspect during the course of the operation. The
+evidence revealed that officers were given the opportunity to take photographs
+with them from their briefings, but that many chose not to do so. One officer
+gave evidence that this was because of concern that the photograph might be
+misplaced. Consideration should be given to advising officers to take
+photographs with them unless particular circumstances dictate otherwise.
+(c) Provision ofPhotographs
+29. A number of allegations were made during the Inquest to the effect that the
+MPS had failed to obtain and circulate the best available photographs of the
+suspect, Hussain Osman. In short, the following criticisms were advanced by
+the de Menezes family:
+(a) that the police had failed promptly to obtain photographs of the suspect
+held by the DVLA and the immigration authorities;
+(b) that the police had failed to review files and photographs from
+Operation Ragstone after a connection had been made between that
+operation and the suspects;
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK' SE1 1YD
+PHONE: 020 7 525 6363 • FAX : 020 7 525 6356
+10
+(c) that the police had failed to make use of photographs found in the
+'bomb bag' discovered at one ofthe scenes ofattempted bombings.
+30. The police parties argued that none of these allegations had real weight in the
+circumstances of this case. At least some of their arguments had real merit.
+However, it must be accepted that identification is vital in intelligence-led
+operations against suspected terrorists. With that in mind, I suggest that the
+following topics should be reviewed:
+(a) how to ensure that other agencies can be contacted quickly (at any time
+of day or night), with a view to obtaining further photographs and
+information about suspects;
+(b) what guidance should be given on reviewing files of related operations
+with a view to obtaining furth er information on suspects ;
+(c) what guidance should be given on the use of photographs obtained
+from crime scenes to aid identification.
+(d) Transmission of Photographs
+31. Developments in technology may make it possible in future.for surveillance
+officers to take photographs covertly and to transmit them to a control room.
+It may also be possible in future for the control room to transmit photographs
+electronically to surveillance officers, whim such photographs are obtained
+during the course of the operation. It need hardly be said that such methods
+could be very valuable.
+(6) Rules of Engagement and Code-Words
+32. Intervening against suspected suicide terrorists raises particular difficulties.
+These were explained in the careful evidence of Mr Swain, the officer who
+had developed the MPS policies in this area. A challenge to a suicide terrorist
+will generally result in him detonating his device. The use ofbaton rounds or
+THE CORONERS COURT · 1 TENNIS STREET SOUTHWARK' SE1 1YD
+PHONE: 020 7 525 6363 • FAX: 020 7 525 6356
+11
+tasers will often trigger the device. Therefore, a critical shot without warning
+may be the only realistic tactical option, especially where the suspect has to be
+confronted in a public place. Decisions on how to confront a suspect will
+often have to be based on a combination of intelligence assessments by senior
+officers and the exercise ofjudgment by firearms officers.
+33. A number of senior officers gave evidence that it is impossible to give hard
+and fast rules to firearms officers on how to confront a suspected suicide
+bomber. However, the MPS had attempted to give guidance in the Operation
+Kratos Firearms Officer Awareness Package (January 2003). In brief, that
+document had suggested that two situations might mise:
+• A person is suspected of carrying a bomb but there is some doubt on
+the subject. In that situation, officers were advised to rely upon their
+training and ordinarily to issue a challenge.
+• 'The suspect has been confirmed as being in possession of a device
+and poses an immediate threat to life.' In that situation, officers were
+advised to attempt a critical shot to incapacitate the suspect
+immediately. A DSO might give the authority to fire a critical shot,
+but the officer on the ground would still have to make his own
+independent assessment.
+A Tactical Options Document prepared for the manhunt on 21st July 2005
+addressed the situation where there was intelligence to suggest that a suspect
+was a suicide bomber and carrying an explosive device with the means of
+detonating it. In that situation, the document cautioned against overt
+deployment before giving the following advice in relation to all the tactical
+options available:
+'In all these options there exists a real possibility that should the
+subject be non-compliant with the commands of the officers initiating
+the interception then an immediate critical shot may be taken in order
+to protect the public and the officers engaged in that interception.'
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK' SE1 1YD
+PHONE: 020 7 525 6363 • FAX: 020 7 525 6356
+12
+That may be read as suggesting that a critical shot should only be fired if the
+suspect fails to comply with a challenge.
+(a) Rules ofEngagement
+34. I suggest that the MPS review its guidance with a view to providing the
+clearest and most consistent rules of engagement which can be devised . The
+following topics may be considered:
+(a) providing criteria, or a list of considerations, to help firearms officers
+to decide whether to issue a challenge or to fire a critical shot without
+warning;
+(b) linking those criteria or considerations to an improved system for
+designating levels of identification (see paragraph 27 above);
+(c) devising practical training for firearms officers to assist them In
+determining the appropriate response.
+(b) Code-Words
+35. The firearms officers in this case all gave evidence that they correctly
+understood the order given by the DSO when they were at Stockwell.
+However, it appears that, for the type of operation being performed, ther e was
+no system of code-words by which a senior officer could give instructions for
+firearms officers to take particular action. Such a system had been developed
+for dealing with suicide bombers at 'pre-planned events', and evidence was
+given that a similar system had been extended to other situations in the years
+since 2005. I would endorse such a development.
+(c) Communication ofIntelligence
+36. Finally, the situation which arose on nnd July 2005 highlights the importance
+of ensuring that intelligence is communicated to officers on the ground,
+insofar as that is possible. If a firearms officer is expected to exercise his own
+independent judgment before firing a critical shot, he should be kept informed
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK· SE1 1YD
+PHONE : 020 7 525 6363 • FAX: 020 7 525 6356
+13
+of what is known about the suspect. It may well be impossible to provide full
+information to those engaged in a fast-moving operation. On the other hand,
+senior officers should not start from the premise that intelligence should not be
+passed to those on the ground.
+(7) Surveillance Officers / Firearms Officers
+37. Although the events of 21st / nod July 2005 were unprecedented, the model of
+a mobile armed support to surveillance ['MASTS'] operation was familiar to
+the MPS.
+(a) Joint Briefings and Joint Training Operations
+38. In this case it was not possible for surveillance and firearms officers to be
+briefed together. However, the case does emphasise the value of holding joint
+briefings for MASTS operations, if at all possible. Such briefings should be
+audio- or video-recorded if at all possible, to avoid uncertainty arising later
+about their tone or content. Joint training operations involving surveillance
+and firearms officers may also be of assistance in helping them to work
+together.
+(b) Awareness ofOther Officers
+39. The facts of this case also highlight the importance of ensunng that
+surveillance, firearms and arrest teams are aware of each others' presence and
+position. For example, there was evidence that surveillance officers were not
+informed when the firearms team was arriving near the surveillance plot, or
+when that team was ordered to join the follow. Similarly, the deployment of
+an SO13 arrest team appears not to have been notified in advance to
+surveillance or firearms officers.
+(c) Training ofSurveillance Officers
+40. The Jury concluded that a failure to use surveillance officers to perform the
+stop of Mr de Menezes contributed to his death [Factor (i)]. They reached that
+conclusion notwithstanding evidence as to the superior training and experience
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK· SE1 1YD
+PHONE: 020 7 525 6363 • FAX: 020 7 525 6356
+14
+of firealms officers. On any VIew, the senior officers in this case had to
+contemplate using surveillance officers to stop a suspect. It is also clear that
+the surveillance team leaders had considered the possibility of their teams
+performing a stop if a suspect emerged from the address under surveillance
+before firearms teams arrived. In those circumstances, consideration might
+usefully be given to training at least some armed surveillance officers in how
+to perform a stop of a suspected suicide terrorist.
+Other Points of Concern
+41 . As is clear from the statutory wording, a Rule 43 report is concerned with
+circumstances which may give rise to the risk of further deaths. In this case, it
+is right that I should mention two matters which probably do not strictly fall
+into that category.
+(a) Recording ofBriefings and Control Room Activity
+42 . The Inquest had to consider numerous different contemporaneous written
+records of the same briefings, decisions and instructions. Despite the
+particular importance of the operation, none of those were audio- or video­
+recorded. It is not my intention to suggest that all briefings or control room
+activity should be recorded in this way, but consideration might be given to
+recording at least some briefings and control room discussions in important
+operations.
+(b) Preparation ofNotes / Statements
+43 . The firearms officers had all discussed the events in detail with each other
+before preparing their statements and they worked on their accounts together
+over a period of many hours. There was a stark difference between their
+experience and the treatment of civilians, who were required to give their
+accounts promptly and independently. I do not mean to criticise the officers
+for acting as they did: they were following standard practice and the best
+available advice. However, the result was that whole sections in some
+statements directly replicated sections in other statements. Officers were
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK· SE1 1YD
+PHONE : 020 7 525 6363 • FAX: 020 7 525 6356
+15
+cross-examined on the basis that their evidence was not the product of
+independent recollection. Allegations of dishonesty were made which would
+have been impossible to make in the absence of collaboration.
+44. Following the decision of Underhill J in R (Saunders) v [PCC [2008] EWHC
+2372 Admin, ACPO has modified its guidance (see revised version of Post­
+Incident Procedure Chapter 6, ACPO Manual on Police Use of Firearms (23'd
+October 2008)). The new guidance recommends that, in investigations
+concerning police discharge of firearms, officers should ordinarily give their
+accounts as soon as practicable and without conferring with each other. It also
+recommends that statements include details of any conferring which has taken
+place. See paragraphs 4.1 -4.8.
+45. In recent years, the Higher Courts have repeatedly expressed concern about
+the practice of witnesses conferring in the preparation of their accounts.
+Where police action has proved fatal, there is the additional imperative that the
+resulting investigation should comply with the procedural obligation inherent
+in Article 2 of the ECHR. That obligation requires the state to secure the best
+evidence by a fair, independent and transparent process.
+46. The MPA issued a Report on 4th December 2008 formally recognising that the
+ACPO guidance would be followed in fatal shooting investigations.
+According to that report, the MPS has commissioned a Gold group under
+DAC Hitchcock to develop further guidance and the Directorate of
+Professional Standards is developing a new post-incident procedure. I would
+simply add my voice to those recommending that clear guidance be given to
+ensure that officers should in future prepare early and independent accounts of
+any police actions which result in fatal or other serious injuries. Serious
+consideration should also be given to audio- and video-recording of post­
+incident debriefings.
+Sir Michael Wright
+6th January 2009
+THE CORONERS COURT· 1 TENNIS STREET SOUTHWARK • SE1 1YD
+PHONE : 020 7 525 6363 • FAX: 020 7 525 6356

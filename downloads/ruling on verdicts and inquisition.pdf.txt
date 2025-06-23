@@ -1,0 +1,962 @@
+INQUEST INTO THE DEATH OF JEAN CHARLES DE MENEZES
+RULING ON VERDICTS AND INQUISITION
+Introduction
+1. This is my Ruling on what, if any, short-form verdicts should be left to the
+jury and on what questions or conclusions the jury should be invited to
+consider in completing the Inquisition. At the outset, it is right that I should
+thank counsel for all Interested Persons for their detailed written and oral
+submissions, which have greatly assisted in clarifying the issues. It is
+inevitable that this Ruling cannot refer to every argument advanced or to every
+piece of evidence which is relevant to any issue. However, on each question, I
+have attempted to consider the evidence in the round.
+2. The basic facts with which this Inquest is concerned can be summarised quite
+shortly. As is very well known, suicide terrorists attacked the London
+transport system on 7th July 2005. Two weeks later, on 21st July, a further
+group of terrorists attempted unsuccessfully to explode devices on three
+underground trains and a bus. The Metropolitan Police immediately launched
+a manhunt to find the failed bombers. This was led by Commander John
+McDowall, as ‘Gold Commander’. By 4.55am on 22nd July, Mr McDowall
+had received information that two persons, Hussain Osman and Abdi Omar,
+might be implicated in the attacks, and he had an address associated with
+them: 21 Scotia Road, in the Tulse Hill area. Information about other
+addresses was coming in over the course of the morning. Mr McDowall set a
+strategy for premises to be kept under surveillance, and for those leaving the
+premises to be challenged and stopped. Later that morning, Commander
+Cressida Dick took over the conduct of the operation, supported by her
+firearms tactical adviser, Chief Inspector Vincent Esposito.
+1
+3. The address at Scotia Road was part of a multi-occupancy building with a
+communal doorway. At 9.33-9.34am, Jean Charles de Menezes, an innocent
+Brazilian, came out of the doorway. He was watched by surveillance officers
+as he walked to a bus stop and boarded a Number 2 bus. Over the course of
+his journey, he was kept under surveillance. He remained on the bus as far as
+Brixton Road, where he got off, intending to board the underground at Brixton
+Station. However, that station was closed due to a security alert, and he
+walked back to the bus stop before actually boarding the bus he had left. This
+innocent behaviour appears to have raised concerns that he was using anti-
+surveillance techniques. He travelled on the bus to a stop near Stockwell
+Station. As the bus was nearing the station, the officers directing the operation
+formed the view that he was likely to be the suspect, Hussain Osman. They
+directed a team of specialist firearms officers from a holding point near Scotia
+Road to get behind the suspect.
+4. Mr de Menezes got off the bus at Stockwell and walked towards the station.
+At this time, there were several surveillance officers in the vicinity, and their
+leader offered to attempt to stop him. At first, Commander Dick gave an order
+that they should perform the stop, because she had been informed that the
+specialist firearms officers were not in a position to intervene. However,
+immediately after she had given the order, she was told that the firearms
+officers were on hand. She countermanded the initial order, and instructed the
+firearms officers to stop Mr de Menezes. By this time, it seems that he was
+inside the station and heading down to a Northern Line platform. The firearms
+officers followed him down onto the platform, and into a waiting underground
+train. There was a confrontation in which two officers, known as C2 and C12,
+fired a number of shots at close range into his head, killing him.
+5. The issues which fall to be decided at this point are:
+(i) Should a verdict of unlawful killing be left to the jury in relation to
+the acts of C2 and C12?
+2
+(ii) Should a verdict of unlawful killing be left to the jury in relation to
+the acts or omissions of the senior officers who were directing the
+operation?
+(iii) What other ‘short-form’ verdicts should be left, if any?
+(iv) What questions and conclusions, if any, should be offered to allow
+the jury to return a narrative verdict?
+The Law concerning Verdicts and the Inquisition
+6. Section 11 of the Coroners Act 1988 [‘the Act’] provides that, at the end of an
+inquest, a coroner or jury must complete and sign an inquisition. Section
+11(5) states what an inquisition must contain:
+‘An inquisition –
+(a) shall be in writing under the hand of the coroner and, in the
+case of an inquest held with a jury, under the hands of the
+jurors who concur in the verdict;
+(b) shall set out, so far as such particulars have been proved –
+(i) who the deceased was; and
+(ii) how, when and where the deceased came by his
+death.’
+7. There are two important statutory limitations on the content of an inquisition.
+First, Rule 36(2) of the Coroners Rules 1984 [‘the Rules’] provides:
+‘(1) The proceedings and evidence at an inquest shall be directed
+solely to ascertaining the following matters, namely –
+(a) who the deceased was;
+(b) how, when and where the deceased came by his death;
+(c) the particulars for the time being required by the
+Registration Acts to be registered concerning the death.
+(2) Neither the coroner nor the jury shall express any opinion on
+any other matters.’
+3
+Secondly, Rule 42 states:
+‘No verdict shall be framed in such a way as to appear to determine
+any question of –
+(a) criminal liability on the part of a named person, or
+(b) civil liability.’
+The inquisition does not have to be in any particular form. Schedule 4 to the
+Rules contains a number of Forms which may be used with such amendments
+as a coroner wishes (see Rule 60). One of those Forms (No. 22) is an
+Inquisition Form, and it is usual for coroners to use that form. In that form,
+there is a section for the coroner or jury to record the ‘time, place and
+circumstances of death’ and a section for them to record their ‘conclusion as to
+the death’ (or ‘verdict’). The notes to the Form contain a list of the ‘short-
+form’ verdicts which are familiar to practitioners and the public, such as
+‘accidental death’, ‘unlawful killing’ and ‘open verdict’. Those notes have no
+statutory force.
+8. In R v North Humberside Coroner, Ex Parte Jamieson [1995] QB 1 at 23-26,
+Sir Thomas Bingham gave guidance on these statutory provisions in the form
+of 14 general propositions. The guidance emphasised the inquisitorial nature
+of inquest proceedings. The Court construed the phrase ‘how the deceased
+came by his death’ in Section 11 and Rule 36 as meaning ‘by what means the
+deceased came by his death’, a limited construction directed at the immediate
+means of death, rather than the broad circumstances (see general proposition
+(2)). The Court recognised that coroners and juries were not required to use
+the ‘short-form’ verdicts but could express their conclusion as to the death by
+a brief, neutral narrative statement (see general proposition (6)). However, the
+Court stressed that it was for the coroner alone to make recommendations with
+a view to preventing further fatalities, a power he enjoys under Rule 43 of the
+Rules.
+9. It has often been recognised by the Courts that the scope of inquiry at an
+inquest can be broader than is necessary in order to produce a verdict. The
+scope of inquiry is a matter for the discretion of the coroner, whereas the
+4
+content of the verdict is more constrained. See, for instance: R (Takoushis) v
+HM Coroner for Inner North London [2006] 1 WLR 461 at 473F-476E; R
+(Hurst) v London Northern District Coroner [2007] 2 AC 189 at 203G. This
+inquest has received evidence on a number of matters which may not be
+regarded as strictly necessary for the verdict, but that is entirely in keeping
+with the law.
+10. Article 2 of the European Convention on Human Rights imposes on
+contracting states an obligation to establish an effective means of investigation
+into deaths for which the state may bear some responsibility. In England &
+Wales, an inquest is the means by which the state ordinarily discharges that
+obligation. In R (Middleton) v West Somerset Coroner [2004] 2 AC 182, the
+House of Lords considered whether the regime for inquests met the
+requirements of Article 2. It concluded that the Convention required that an
+investigation should be capable of reaching a conclusion which resolves the
+central issues of fact in the case. Therefore, in those cases where a choice
+between traditional ‘short-form’ verdicts was not capable of resolving those
+central issues, an inquest would not meet the Convention standard. Lord
+Bingham, giving the opinion of the Committee, said that only one change was
+required to achieve compliance:
+‘to interpret “how in Section 11(5)(b)(ii) of the Act and rule 36(1)(b)
+of the Rules in the broader sense previously rejected, namely as
+meaning not simply “by what means” but “by what means and in what
+circumstances.”’
+In practice, a coroner or jury might have to return a narrative verdict in order
+to answer that question and resolve the central issues of fact. It would be for
+the coroner in each such case to decide by what means he should elicit the
+factual findings of a jury. See 202B-E. However, the strictures of Rules 36(2)
+and 42 should continue to be respected (202F). The coroner should remain
+solely responsible for making recommendations for remedial action by public
+authorities. However, in making such recommendations, he might be
+influenced by the conclusions reached by a jury (203A-B).
+5
+11. All counsel before me are agreed that the investigative obligation under
+Article 2 clearly arises in this case, and that the ‘Middleton’ approach to
+construction of the statutory provisions should be followed. I shall consider
+below what that approach requires by way of narrative questions and
+conclusions.
+12. The Courts have also given guidance on what test a coroner should apply in
+deciding what short-form verdicts to leave to a jury. That guidance is
+contained in the cases R v HM Coroner for Exeter, Ex Parte Palmer [1997]
+(CA; unreported; 10 December), R v Inner London Coroner, Ex Parte
+Douglas-Williams [1999] 1 All ER 344 at 349a-b and R (Bennett) v HM
+Coroner for Inner South London [2007] EWCA Civ 617. In Palmer, the
+Court of Appeal said that a coroner should apply the ‘Galbraith’ test which is
+used in the criminal courts for determining submissions of ‘no case to answer’:
+R v Galbraith [1981] 1 WLR 1039 at 1042. A verdict should be withdrawn if
+there is no evidence to support it or if the evidence is so weak, vague or
+inconsistent with other evidence that, taken at its highest, it is such that a jury
+properly directed could not properly return that verdict. By contrast, if the
+strength or weakness of the evidence depends upon the view to be taken of a
+witness’s reliability, then the verdict should be left. In Bennett, the Court of
+Appeal reviewed the authorities and said that the test to be applied was
+slightly different from that in Galbraith. At paragraph 30, Waller LJ said:
+‘I would understand that the essence of what Lord Woolf was saying is
+that coroners should approach their decision as to what verdicts to
+leave on the basis that the facts are for the jury, but they are entitled to
+consider the question whether it is safe to leave a particular verdict on
+the evidence to the jury, i.e. to consider whether a verdict, if reached,
+would be perverse or unsafe and to refuse to leave such a verdict to the
+jury.’
+My decisions in this case do not depend on whether the test is expressed in the
+classic ‘Galbraith’ formula or in this slightly modified version.
+13. Most verdicts and conclusions which are considered in coroners’ courts only
+need to be established according to the civil standard of proof; the balance of
+probabilities. However, a verdict of unlawful killing can only be returned if a
+6
+coroner or jury conclude, beyond reasonable doubt, that one or more persons
+unlawfully killed the deceased. Of course, in compliance with Rule 42, the
+verdict will not name the person considered to have committed the offence.
+Before a verdict of unlawful killing can be returned, every element of the
+homicide offence must be established to the criminal standard of proof. See: R
+v West London Coroner, Ex Parte Gray [1988] QB 467. Where a verdict of
+unlawful killing is to be left to a jury, the coroner should direct the jury to
+consider that verdict first, followed by any other substantive verdicts, followed
+by an open verdict (if appropriate). See: R v Wolverhampton Coroner, Ex
+Parte McCurbin [1990] 1 WLR 719.
+14. In R (Sharman) v HM Coroner for Inner North London [2005] EWHC 857
+Admin, at paragraph 13 Leveson J recommended the following direction for
+the case before him, which concerned a fatal shooting by police firearms
+officers:
+‘(i) unlawful killing: a finding beyond reasonable doubt that the
+firearm was not discharged in the belief that one of the officers
+was under imminent threat of being shot…;
+(ii) lawful killing: a finding on the balance of probabilities, that
+[the officer] believed, albeit mistakenly that he or [another
+officer] was under imminent threat of being shot…;
+(iii) open verdict: a rejection of the proposition that [the officer]
+may have believed that he or [the other officer] was under
+imminent threat of being shot… but an inability to conclude,
+beyond reasonable doubt, that such was not the case.’
+That suggested formula clearly expresses the possibility that a jury may not
+return a verdict of unlawful killing to the criminal standard, but may not
+conclude on the balance of probabilities that the killing was justified by self-
+defence or defence of others. In that case, an open verdict is the proper
+outcome.
+The Effect of Previous Proceedings
+15. Before I turn to consider the verdicts and conclusions which should be left in
+this case, I should make some remarks on two matters. First, the decision of
+7
+the Director of Public Prosecutions not to prosecute any individual officer in
+relation to the death of Mr de Menezes was challenged in judicial review
+proceedings, and the decision was upheld: R (Da Silva) v DPP [2006] EWHC
+3204 Admin. It appears to be common ground that I can have regard to that
+decision, subject to a number of qualifications. The question which the
+Director had to answer was whether a conviction was more likely than not,
+which is a different test from the modified ‘Galbraith’ test set out above. In
+the judicial review proceedings, the Court had to determine whether the
+decision was unreasonable in the Wednesbury sense, although Richards LJ did
+add this, at paragraph 58:
+‘Our consideration of the decision letter and the review note, together
+with the IPCC report, leaves us satisfied that the decision was a
+reasonable one. Indeed, though it is not necessary for us to go this far,
+we see no reason to disagree with the decision.’ (emphasis added)
+Nevertheless, further evidence has emerged since the decision of the Court,
+both in the 2007 trial and in this inquest. The conclusions of the Court have to
+be viewed in the light of that further material. I expressed that view in the
+course of argument, and it was not disputed by anyone. Secondly, the Office
+of the Commissioner of Police of the Metropolis was prosecuted and
+convicted of an offence under Section 3 of the Health and Safety at Work Act
+1974. The jury in that case added a rider in the following terms:
+‘in reaching this verdict, the jury attach no personal culpability to
+Commander Dick’.
+Section 16(7) of the Coroners Act states:
+‘Where a coroner resumes an inquest which has been adjourned in
+compliance with subsection (1) above –
+(a) the finding of the inquest as to the cause of death must not be
+inconsistent with the outcome of the relevant criminal
+proceedings.’
+In this case, the ‘relevant criminal proceedings’ is a reference to the 2007 trial,
+because the adjournment under Section 16(1) related to those ‘relevant
+criminal proceedings’. In my judgment, there is no real scope for any
+inconsistency between the findings in this Inquest and the verdict or rider in
+the criminal trial. The verdict was simply a conclusion that the Commissioner
+had failed to minimise risk in any one of a number of respects. No finding of
+8
+the jury as to cause of death could conflict with that verdict. As the jury in
+this case cannot make any finding of civil or criminal fault against
+Commander Dick, there is no scope for their finding to be inconsistent with
+the rider, even if one assumes that the rider is part of the ‘outcome’ of the trial,
+for the purposes of Section 16(7)(a).
+Unlawful Killing Verdict in relation to C2 and C12
+16. Mr Mansfield QC, counsel for the family of Mr de Menezes, submits that a
+verdict of unlawful killing should be left to the jury on the basis of the acts of
+C2 and C12 in the carriage. He argues that the jury could properly conclude,
+beyond reasonable doubt, that the officers did not act in lawful defence of
+themselves and others when they fired their weapons. Mr Stern QC, counsel
+for the officers, submits the contrary. There is no doubt that the officers
+intended to kill Mr de Menezes when they fired. Therefore, if their contention
+that they were acting lawfully in defence of themselves or others could be
+disproved, they would have committed the offence of murder.
+17. There is agreement between all Interested Persons as to what test I should
+apply in determining whether the officers acted lawfully in defence of
+themselves and others. The test has two limbs:
+(i) Did the officer honestly and genuinely believe that it was necessary
+for him to use force in defence of himself and/or others? This is a
+question of subjective belief. Even if the belief was mistaken, and
+even if the mistake was unreasonable, the defence can still run.
+The reasonableness of the belief is only relevant in helping the jury
+to decide whether the belief was honestly held.
+(ii) If the officer did hold the necessary belief, did he use no more
+force than was reasonably necessary in the circumstances as he
+believed existed at the time? This is an objective test, but it is
+applied realistically. Where a person faces a threat, the Courts will
+not judge with too precise a measure the degree of force he uses.
+9
+See Palmer v R [1971] AC 814 at 831-2 (as to self-defence); Section 3 of the
+Criminal Law Act 1967 (as to defence of others). It is also significant for
+present purposes that a person under threat is not required to wait passively for
+the blow to fall. A pre-emptive strike can be justified by the circumstances.
+See: Beckford v R (1987) 85 Cr App R 378 at 385.
+18. The legal test is no different when the person facing the threat is a police
+officer or a soldier. However, as Waller LJ said in Bennett at paragraph 15,
+the tribunal is entitled to take account of the person’s training when applying
+the two limbs of the test to the facts of a given case. The same must apply to
+specific briefings as well as general training.
+19. Mr Mansfield accepts that the two officers, C2 and C12, honestly believed that
+the man in front of them in the carriage was Hussain Osman, the person who
+was strongly (and rightly) suspected of having attempted to explode a bomb in
+an underground station the day before. In my judgment, Mr Mansfield was
+right to accept that. It has been the consistent evidence of all the firearms
+officers that they had been told that the person under surveillance had been
+positively identified as Osman, and that they were being deployed for that
+reason. They were then told with some force to stop the man getting on the
+tube, an order which can only have reinforced their belief. Although none of
+the surveillance officers had gone further than saying that the man they were
+watching was a ‘good possible’ for Osman or was thought to be Osman, it is
+easy to see how the message could have been changed in transmission. There
+is one clear example of a message being altered in transmission during the
+course of this operation. It is apparent that none of the surveillance officers
+ever ruled out the possibility that their subject was Osman, but the command
+team at 9.48am plainly believed that he had been ruled out, because they sent
+an unarmed arrest team to detain him.
+20. As well as believing that the man in front of them had attempted to explode a
+bomb on the underground system on the previous day, the officers had
+received some significant information in briefings earlier that morning. They
+10
+had been told that the suspects were ‘deadly and determined’. They had been
+told that explosive devices could be concealed about the body and detonated
+with a range of devices, some of which required only a small movement with
+one hand. They had been instructed that they might have to consider using
+‘unconventional tactics’, which they all understood to mean the possibility of
+firing a critical shot. In addition to that briefing, the officers had heard reports
+over their ‘Cougar’ radio that Mr de Menezes was acting nervously, reports
+which appear to have increased their suspicions. All those influences need to
+be borne in mind when assessing the state of mind of the officers. Having said
+that, it must be observed that both C2 and C12 said that they entered the tube
+station with no preconceived idea of how they would confront the suspect.
+They believed that their orders were to intercept and detain the suspect.
+Despite suggestions which have been made in the past, neither they nor any of
+the other firearms officers believed that they had been given an order to fire a
+critical shot without warning.
+21. It is submitted on behalf of the de Menezes family that, at the critical moment
+in the underground train carriage, the officers did not honestly believe that Mr
+de Menezes represented an imminent, mortal threat to themselves and others.
+The principal argument advanced is that their account of events in the carriage
+is at odds with those of certain members of the public who witnessed the
+confrontation, and is not supported by the accounts of some of the other
+officers in the vicinity. C12 gave evidence that, on entering the carriage, he
+shouted the words ‘Armed police’ and simultaneously raised his gun,
+whereupon Mr de Menezes got up from his seat and advanced on him, holding
+his hands slightly ahead of his body. C12 says that he was surprised by this
+behaviour and convinced that the man in front of him was about to detonate a
+bomb. A nearby surveillance officer, ‘Ivor’, then moved forward and grabbed
+Mr de Menezes in a ‘bear hug’ before pushing him back onto his seat. C12
+advanced and reached over the surveillance officer before firing. C2 says that
+he also saw Mr de Menezes stand up and that he also shouted the words
+‘Armed police’, but after ‘Ivor’ took action. It is said that this ‘cameo’ is not
+supported by the other evidence and that C12 and C2 are deliberately lying to
+give credence to their account that they believed Mr de Menezes was acting in
+11
+a ‘non-compliant’ manner. The de Menezes family point to the fact that none
+of the bystanders specifically recalls an officer shouting ‘Armed police’ before
+firing, and that none specifically recalls Mr de Menezes moving towards the
+officers.
+22. As Mr Stern submits, there are several answers to this argument. First, the
+bystanders could be mistaken, or could have forgotten parts of the story. Their
+accounts are inconsistent with each other and in many cases are obviously
+wrong. None gives an accurate account of ‘Ivor’ tackling Mr de Menezes,
+although the expert assessments based on physical evidence support the
+evidence of the police officers on that point. One of the bystanders tells of
+shots being fired from the platform, another of shots being fired into the
+ceiling of the train. Many of them accept that they recall ‘snapshots’ or
+focussed images, rather than a moving sequence of events. Many do recall the
+words ‘Armed police’ and similar words being shouted at one point or
+another. I am sure that all the members of the public who have given evidence
+have done their best to help, but they witnessed a very fast-moving and
+distressing sequence of events. Errors are almost inevitable.
+23. Secondly, the officers themselves could be honestly mistaken on one or more
+points. In Da Silva at paragraph A17, the Court commented that the officers
+could have made an honest mistake about the stage at which they shouted the
+words ‘Armed police’.
+24. Thirdly, even if the jury were to conclude that either or both officers had lied,
+that would not of itself logically prove that they did not genuinely believe
+there was a threat. Any lie could have been told to bolster an honest belief,
+rather than with a guilty conscience. This consideration was regarded as
+important in both Da Silva (at paragraph A17) and in Sharman (at paragraph
+42).
+25. Each of Mr Stern’s arguments has force. In my judgment, the jury could not
+properly conclude to the criminal standard of proof that the two officers did
+not honestly believe that Mr de Menezes represented a mortal threat to them
+12
+and those around them. I am fortified in that view by two further
+considerations. First, the Divisional Court in Da Silva said that the decision of
+the Director not to prosecute the officers was not only reasonable but
+‘manifestly the correct one in all the circumstances of this case’ (paragraph
+A19). Although this inquest has received additional evidence, including the
+oral evidence of the officers and of those members of the public who saw
+events most directly, those witnesses mainly adhered to their statements, and
+the overall weight of the evidence has not changed greatly in this regard.
+26. Secondly, in the course of argument, I asked Mr Mansfield what was the state
+of mind of the officers when they fired their shots, if they did not honestly
+believe they were facing a threat. I also asked him why the officers fired, if
+they did not hold that belief. He very fairly said that he could not answer
+either question. This is significant, even though his clients do not have to put
+a case and even though questioning as to the state of mind of another person is
+always problematic. It is difficult to see why C2 and C12 acted as they did if
+they did not truly believe Mr de Menezes represented a threat.
+27. If the officers honestly believed that Mr de Menezes represented a mortal
+threat to themselves and those around them, it could not be said that they used
+more force than was reasonably necessary. An argument was made in the
+written submissions of the de Menezes family to the effect that C2 used
+excessive force because he fired too many times. That argument was not
+pressed with any great vigour in oral submissions. In my judgment, it has no
+merit. The events took place in a few seconds, and one cannot fairly say that
+some of the shots to the head constituted reasonable force and some did not.
+In any event, the officers had been trained to fire until the threat was
+neutralised.
+28. Therefore, I shall not be leaving to the jury the option to return a verdict of
+unlawful killing in relation to the actions of C2 and C12. However, I have
+decided that the jury should be given the opportunity to return either a lawful
+killing verdict or an open verdict. I propose to direct them, in accordance with
+the guidance in Sharman’s case, that they should return a verdict of lawful
+13
+killing if they are satisfied, on the balance of probabilities, that C2 and C12
+honestly believed that Mr de Menezes represented an imminent, mortal threat
+to themselves and/or others. If they are not so satisfied, they should return an
+open verdict. Mr Stern for the officers, and Mr Horwell QC for the
+Commissioner, both submitted that those two verdicts should be left, and that
+either verdict could properly be returned by the jury. I agree. While the jury
+could not safely say that they are sure that C2 and C12 did not honestly
+believe that Mr de Menezes represented a threat, the jury could safely say that
+lawful defence is not established on the different threshold of the balance of
+probabilities.
+29. As a matter of form, Mr Mansfield submits that, rather than leaving alternative
+short-form verdicts of lawful killing and open verdict, I should invite the jury
+to answer a number of questions, one of which should be whether the officers’
+use of lethal force was justified by an honest belief that Mr de Menezes posed
+an imminent threat. He argues that, to leave the short-form verdicts would
+give this issue undue prominence over other important issues in the case. In
+my judgment, the issue of the officers’ belief and the justification for the shots
+is of particular importance, and can properly be resolved through the use of
+short-form verdicts which are well-understood. In any event, Mr Mansfield’s
+concern is over-stated. I do propose to leave other questions and conclusions
+to the jury. Both the short-form verdict and the jury’s other conclusions will
+appear in section 4 of the Inquisition.
+Unlawful Killing in relation to the Senior Officers
+30. It is also necessary for me to consider whether a short-form verdict of
+unlawful killing should be left to the jury in relation to acts or omissions of
+senior officers who bore responsibility for the operation as a whole. The only
+ground on which such a verdict could be left would be a conclusion that one or
+more specific officers had committed the offence of manslaughter on the basis
+of gross negligence. As all counsel submitted, the law requires the offence to
+be proved against a particular officer, on the basis of that officer’s own acts or
+omissions. One cannot aggregate the failings of different people and leave the
+14
+verdict on that footing. The de Menezes family contend that this verdict ought
+to be left on the basis of the conduct of each of Mr McDowall, Ms Dick and
+Mr Esposito. I agree that the verdict certainly could not properly be left in
+relation to the acts or omissions of any other particular officer.
+Gross Negligence Manslaughter
+31. The ingredients of the offence of gross negligence manslaughter are clearly
+established. The leading modern authority is R v Adomako [1995] 1 AC 171.
+At 187B-E, Lord MacKay LC said:
+‘[In] my opinion the ordinary principles of the law of negligence apply
+to ascertain whether or not the defendant has been in breach of a duty
+of care towards the victim who has died. If such breach of duty is
+established the next question is whether the breach of duty caused the
+death of the victim. If so, the jury must go on to consider whether the
+breach of duty should be characterised as gross negligence and
+therefore a crime. This will depend on the seriousness of the breach of
+duty committed by the defendant in all the circumstances in which the
+defendant was placed when it occurred. The jury will have to consider
+whether the extent to which the defendant’s conduct departed from the
+proper standard of care incumbent upon him, involving as it must have
+done a risk of death to the patient, was such that it should be judged
+criminal…
+The essence of the matter which is supremely a jury question is
+whether having regard to the risk of death involved, the conduct of the
+defendant was so bad in all the circumstances as to amount in their
+judgment to a criminal act or omission.’
+32. There are thus four matters which a prosecutor must prove in order to establish
+that this offence has been committed:
+(i) the defendant must have owed a duty of care to the victim;
+(ii) the defendant must have breached that duty;
+(iii) the breach must have caused the death;
+(iv) the breach must be characterised as ‘gross’.
+15
+As to the requirement of causation, it must be proved that the breach actually
+made a more than minimal causal contribution to death. Increasing the risk of
+death is not enough. In directing a jury, a judge or coroner must identify the
+content of the duty alleged. He must direct the jury to consider each particular
+alleged breach. The verdict can only be properly returned if the jury regards
+one or more particular breaches as causative of death and as grossly negligent.
+The threshold of a ‘gross’ breach of duty is a high one. The Courts have
+approved strong epithets, such as ‘heinous’, ‘flagrant’ and ‘truly exceptionally
+bad’. If a defendant is not subjectively reckless as to death, that can tell in his
+favour. See: R (Rowley) v DPP [2003] EWHC 693 Admin at paragraphs 22-
+40. Importantly, the breach in question has to be a serious one having regard
+to the risk of death. See: R v Misra [2004] EWCA Crim 2375. I accept that
+the question of whether a breach of duty is ‘gross’ is supremely a jury
+question, that does not absolve me from having to consider whether a jury
+could safely conclude that any particular conduct alleged was grossly
+negligent.
+Duty of Care Owed by Police Officers
+33. The one truly contentious question of law raised in submissions was whether
+any of the officers could have owed a duty of care to Mr de Menezes. Mr
+Horwell submits that none of the officers involved in the operation on 22nd
+July 2005 could have owed a duty to him at any point. He puts forward two
+complementary arguments. First, he says that the requisite relationship of
+proximity does not normally exist between police officers and a person who is
+a suspect or otherwise the object of a police operation. Secondly, he says that
+there is an objection of public policy to police officers owing a duty in these
+circumstances. According to his submission, that objection is firmly founded
+in authority. Mr Perry QC, appearing for the three senior officers concerned,
+supports Mr Horwell’s submissions, but makes the secondary submission that,
+‘if the facts are capable of giving rise to a duty of care… any such duty could
+only arise at the time that a decision was taken to carry out an armed
+intervention on the subject of the surveillance.’
+16
+34. Mr Mansfield contends for a duty of care of much wider ambit. He submits
+that, from the point that Mr McDowall made a strategic decision at 4.55am to
+mount an operation against 21 Scotia Road which would involve the
+deployment of firearms officers, he and other senior officers owed a duty of
+care in the direction of that operation. According to Mr Mansfield, the duty
+was owed to any persons coming out of the block in question.
+35. I have decided that a duty of care could exist, but that Mr Mansfield’s
+formulation is too broad. In my judgment, a police officer can owe a duty of
+care in directing other police officers to perform an armed interception. The
+content of the duty here would be to take reasonable care to ensure that such
+an interception took place in such a location and at such a time as to minimise,
+so far as reasonably practicable, the risk of unnecessary injury to the subject of
+the intervention, to the officers concerned and to others in the immediate
+vicinity. In this case, the duty would not arise before the point at which
+firearms officers were ordered to move through with a view to performing an
+interception. As I shall explain, I have concluded that the jury could not safely
+conclude that any officer breached that duty.
+36. Even if I had accepted Mr Mansfield’s formulation of the duty of care, I would
+still have concluded that the verdict of unlawful killing should not be left to
+the jury on the basis of gross negligence manslaughter. That will be apparent
+from my reasoning in relation to each of the specific officers. Nonetheless, it
+is only right that I should first explain my reasoning on the duty of care
+question.
+37. When considering an issue of this kind, it is helpful to begin with the general
+principles articulated by the House of Lords in Caparo Industries Plc v
+Dickman [1990] 2 AC 605. At 617-18, Lord Bridge reviewed a number of
+authorities concerning the criteria for establishing a duty of care in negligence:
+‘What emerges is that, in addition to the foreseeability of damage,
+necessary ingredients in any situation giving rise to a duty of care are
+that there should exist between the party owing the duty and the party
+to whom it is owed a relationship characterised by the law as one of
+“proximity” or “neighbourhood” and that the situation should be one in
+17
+which the court considers it fair, just and reasonable that the law
+should impose a duty of a given scope upon the one party for the
+benefit of the other. But it is implicit in the passages referred to that
+the concepts of proximity and fairness embodied in these additional
+ingredients are not susceptible of any such precise definition as would
+be necessary to give them utility as practical tests, but amount in effect
+to little more than convenient labels to attach to the features of
+different specific situations which, on a detailed examination of all the
+circumstances, the law recognises pragmatically as giving rise to a
+duty of care of a given scope.’
+Thus, there are guiding principles in determining the scope of duties of care in
+novel situations, but the law often moves incrementally and by analogy.
+38. In examining the duty of care owed by the police, the starting-point is the
+decision of the House of Lords in Hill v Chief Constable of West Yorkshire
+[1989] 1 AC 53. The estate of a victim of the ‘Yorkshire Ripper’ argued that
+the Chief Constable could be liable for failing to arrest the serial killer and so
+prevent the murder. The House of Lords upheld an order striking out the
+claim. Lord Keith said that a duty to protect an individual against the criminal
+acts of a third party would only normally arise in special circumstances and
+thus the police owed no general duty of care to protect victims of crime. But
+His Lordship also said that the appeal could be dismissed on another ground –
+that of public policy. To impose such a duty would not be fair and reasonable
+because it might lead to police officers acting in a defensive manner with a
+view to potential liability and because it might divert resources from
+combating crime to defending civil claims. However, Lord Keith recognised
+(at 59) that a police officer could be liable in a variety of torts, including
+negligence. His Lordship cited Knightley v Johns [1982] 1 WLR 349 and
+Rigby v Chief Constable of Northamptonshire [1985] 1 WLR 1242 as
+examples.
+39. The principle in Hill has been applied so as to preclude various types of claim
+being brought. For example, in Alexandrou v Oxford [1993] 4 All ER 328 it
+was held that the police do not owe a duty of care to prevent a crime even after
+being summoned to the scene. In Calveley v Chief Constable of the
+Merseyside Police [1989] AC 1228, it was held that a chief constable cannot
+18
+be liable in negligence in pursuing disciplinary proceedings against officers.
+In Elguzouli-Daf v Commissioner of Police of the Metropolis [1995] QB 335
+and in Kumar v Commissioner of Police of the Metropolis [1995] CA
+(unreported), the principle of policy stated in Hill was used to justify a finding
+that the CPS does not owe a duty to those whom it prosecutes. In Heagren v
+Chief Constable of Norfolk [1997] EWCA Civ 2044, the Court of Appeal
+applied the principle in Hill to hold that a police force does not owe a duty of
+care to make reasonable enquiries to check that information from an informant
+is reliable before initiating an armed search of premises.
+40. Brooks v Commissioner of Police for the Metropolis [2005] 1 WLR 1495
+concerned a claim by a witness to a homicide who alleged that the police had
+owed him a duty of care in providing support and assistance to him. The
+House of Lords rejected the proposed duty, relying upon the policy
+considerations identified in Hill. Lords Bingham, Nicholls and Steyn all
+expressed caution as to the breadth of the principle in Hill. However, Lord
+Steyn made clear (at paragraph 32) that the principle did not only preclude
+claims for failure to protect a person against the criminal acts of others.
+41. In the recent case of Van Colle v Chief Constable of Hertfordshire Police
+[2008] 3 All ER 977, the House of Lords re-asserted the ‘core principle’ in
+Hill so as to reject a claim by the victim of a serious assault. The claim was
+based on the failure of the police to deal with his repeated expression of
+specific fears. As Mr Horwell submits, the facts of the case were very strong
+indeed. On the other hand, it is worth noting that Lord Philips defined the
+principle in Hill quite narrowly: ‘that in the absence of special circumstances
+the police owe no common law duty of care to protect individuals against
+harm caused by criminals’ (paragraph 97). Lord Hope observed at paragraph
+79, ‘There are, of course, cases in which actions of the police give rise to civil
+claims in negligence in accordance with ordinary delictual principles.’ Like
+Lord Keith in Hill, he referred to Rigby and Knightley in this class, and added
+reference to Gibson v Orr 1999 SC 420. It is plain from that passage that Lord
+Hope did not regard Rigby and Knightley as anomalies, but as instances of a
+wider principle.
+19
+42. Rigby is an important case, not least because it was recognised in Hill and in
+Van Colle as a case in which a duty was owed. It was alleged that the police
+had been negligent in the conduct of a siege of premises. During the course of
+the siege, they had fired a CS gas canister into the premises which had caused
+a fire. In particular, it was said that they should have purchased and used an
+alternative CS gas device which presented a lower risk of fire, and that they
+should have had fire-fighting equipment on hand. Taylor J accepted that a
+duty of care existed. This suggests that the police do owe a duty of care in
+directing the use of dangerous equipment against a particular address.
+43. In Knightley, a police motorcyclist was injured after being directed by his
+superior to ride the wrong way down a tunnel after an accident. Gibson
+concerned a failure by police to erect barriers around a section of road which
+they knew to be affected by a serious flood risk. Although these both
+concerned direction of traffic on the highway, I do not think that they can
+simply be regarded as instances of the general duty of police as motorists.
+44. Another category of case in which the police can owe a duty of care is that
+where a firearm is entrusted to an officer who is not suitable. In A-G v
+Hartwell [2004] 1 WLR 1273, the Privy Council accepted the existence of
+such a duty. At paragraph 31, Lord Nicholls distinguished Hill’s case on the
+following basis:
+‘This case does not fall on the “omissions” side of the somewhat
+imprecise boundary line separating liability for acts from liability for
+omissions. In a police case this distinction is important. Here the
+police are not sought to be made liable for failure to carry out their
+police duties properly. This is not a case such as Hill where liability
+was sought to be imposed on the police in respect of an alleged failure
+to investigate the Sutcliffe murders properly. In the present case the
+police authorities were in possession of a gun and ammunition. They
+took the positive step of providing PC Laurent with access to that gun.’
+His Lordship later said that the law had long recognised the special dangers
+associated with dangerous articles, such as firearms and explosives (paragraph
+33). It should also be noted that the Court of Appeal of Northern Ireland had
+20
+previously decided that the police owed a duty not to provide an unsuitable
+officer with a firearm: O’Dwyer v Chief Constable of the RUC [1997] NI 403.
+45. As Mr Horwell submits, Hartwell and O’Dwyer do not address directly the
+question of whether a police force or officer can owe a duty of care in
+directing a firearms operation, beyond the particular duty to ensure that
+firearms are in the hands of suitable and proficient officers. However, if the
+police have a duty to keep firearms out of the hands of unsuitable officers, it
+would seem to be anomalous to hold that they cannot owe a duty in directing
+an officer how to use a firearm against a member of the public.
+46. Having particular regard to the decisions in Rigby and Hartwell, I consider
+that a senior officer can owe a duty of care in directing an armed intervention.
+It is noteworthy that the existence of a duty of care in the conduct of an armed
+raid was conceded by the defendant police force in Ashley v Chief Constable
+of Sussex Police [2008] 3 All ER 573. Similarly, in Da Silva, the Divisional
+Court did not question the premise of the Director, that the officers directing
+the operation against Mr de Menezes could owe him a duty of care. I also
+remind myself that the policy considerations identified in Hill may be
+outweighed by other policy considerations, as May LJ said in Costello v Chief
+Constable of Northumbria Police [1999] 1 All ER 550 at 564. In this case,
+there is an argument of public policy that the police ought to owe a duty of
+care when directly deploying armed officers against a member of the public.
+The existence of such a duty is unlikely to make the police more defensive,
+since they already know that such deployments are likely to be carefully
+scrutinised by the IPCC and may result in claims for trespass to the person or
+breach of the Article 2 right to life.
+47. Some bounds need to be set in defining the scope of the duty. The early stages
+of the operation led by Mr McDowall were, in essence, an investigation to find
+and watch suspects. The planning of such an investigation and the
+surveillance of suspects plainly comes within the general functions of the
+police in investigating crime, just as the checking of the informant’s
+information did in Heagren.
+21
+48. For those reasons, I have concluded that a duty of care could exist on the facts
+of this case, and that the scope of that duty is as outlined in paragraph 35
+above. I appreciate that difficult lines have to be drawn in identifying where
+the police do and do not owe any duty.
+The Senior Officers
+49. The de Menezes family make a number of allegations against Mr McDowall,
+Ms Dick and Mr Esposito. On behalf of those officers, Mr Perry maintains (i)
+that none of the complaints is founded on a valid duty of care; (ii) that no
+breach could be made out; (iii) that none of the alleged failures was, on
+analysis, causative of the death; and (iv) that none of the alleged failures could
+possibly be fairly described as grossly or criminally negligent. In considering
+each allegation, I shall therefore need to consider successively the questions of
+duty, breach and causation. Having done so, I shall consider whether any of
+the alleged failures could be characterised as gross negligence.
+Commander John McDowall
+50. The de Menezes family argues that Mr McDowall, when setting a strategy for
+the operation at 4.55am on 22nd July, should have stipulated that a suspect
+coming out of any of the addresses under suspicion must not reach public
+transport. It is said that, shortly thereafter, he should have taken steps to
+ensure that surveillance officers and specialist firearms officers were deployed
+to Scotia Road as soon as possible, with a view to ensuring that any suspect
+could be watched closely and stopped quickly. It is said that he should then
+have kept himself updated with the progress of the operation and ensured that
+his strategy was being followed. I should note at the outset that the Divisional
+Court in Da Silva concluded that the Director had been right to concentrate on
+officers below the rank of Mr McDowall, because, as Gold Commander he
+had been entitled to delegate tasks to others (see paragraph A27-28).
+51. The first complaint made is that Mr McDowall should have set a strategic plan
+such as to ensure that suspects were stopped in the ‘window of opportunity’
+between them leaving the premises and reaching the public transport system.
+22
+In my view, no duty of care arose at the stage that Mr McDowall was
+formulating his strategy. Even if there were such a duty, it was no breach of
+that duty for Mr McDowall not to dictate the tactics suggested. As Mr Perry
+says, the Gold Commander was setting a high-level strategy which was to be
+used at a number of premises, not setting tactics for every scene. Indeed, Mr
+Mansfield accepted that the strategy resulted in the correct tactics being used
+at the second address kept under surveillance. In any event, it might not be
+feasible or appropriate to stop all suspects in the window of time referred to.
+It might not be possible to make an identification in that window. If the
+firearms officers began stopping anyone who could not be ruled out, as Mr
+Mansfield suggested might be appropriate, then the covert status of the
+operation would probably have been compromised at a very early stage. Even
+if a breach of duty could be established in this regard, the operational
+decisions of Ms Dick would probably break the chain of causation between Mr
+McDowall’s high-level strategy and the events on the ground.
+52. The second allegation is that Mr McDowall did not ensure that firearms
+officers were deployed sooner. I cannot see that a police officer owes a
+positive duty of care to the occupants of an address to send armed officers to
+their neighbourhood quickly with a view to stopping them. In any event, Mr
+McDowall did ask a Chief Inspector in Special Branch, known as ‘Alan’, to
+arrange for deployment of firearms officers to Scotia Road. It may be that, in
+following those instructions, there was a failure of communications on the part
+of Alan or a specialist firearms officer, Inspector ‘ZAJ’. However, even if
+there were, an officer of Mr McDowall’s rank in a hierarchical organisation
+was entitled to delegate to a subordinate and to assume that his orders would
+be acted upon. Furthermore, any delay in the despatching of firearms officers
+to the area of Scotia Road cannot be established, to the requisite standard of
+proof, to be a cause of the death of Mr de Menezes, having regard to two
+matters. First, when he emerged from the block, there were probably six
+firearms officers at the holding point very nearby, who could have performed
+a stop if they had been ordered to do so. Secondly, it is clear from the
+evidence of Ms Dick that she would not have ordered the firearms officers to
+23
+leave the holding point at any time earlier than that at which she actually gave
+the order (probably around 9.55am).
+53. The third allegation is that Mr McDowall failed to keep himself informed and
+to ensure that his orders were being followed. Once again, I cannot see that
+Mr McDowall owed a duty to Mr de Menezes as suggested. Neither can I see
+that a senior commander committed any failure by not, as it has been put,
+‘micro-managing’ every action of his subordinates. He chaired a key meeting
+at 6.40am and was careful to check with Ms Dick that she had all she needed.
+Even if he did commit some error, it did not result in the death of Mr de
+Menezes.
+Commander Cressida Dick
+54. The allegations against Ms Dick may be distilled into three areas of complaint.
+First, Mr Mansfield argues that she failed to ensure that the block on Scotia
+Road was kept under careful surveillance control and that tactics were
+employed to ensure that all suspects could be identified and stopped before
+reaching a bus stop. As it happens, the nearest bus stop was on Upper Tulse
+Hill, only a few minutes’ walk from the block. The first obstacle to Mr
+Mansfield’s argument is the difficulty of constructing a positive duty of care at
+that stage to stop Mr de Menezes close to his home. In my judgment, no such
+duty could exist. Even if it could, I consider that it would not have been
+practicable to implement this as a fixed and inflexible tactical plan, for the
+reasons given in paragraph 51 above. In any event, the surveillance control
+was good: Mr de Menezes was kept continually under surveillance but the
+covert status of the operation near Scotia Road was maintained. The failure
+to stop him at an earlier stage was based on an inability of officers to say
+whether he was identifiable with the suspect. Therefore, his death was not
+caused by any failure of surveillance control at Scotia Road.
+55. Secondly, it is alleged that Ms Dick failed to keep herself informed of where
+surveillance and firearms officers were as Mr de Menezes was travelling from
+Tulse Hill towards Stockwell. Again, I do not think that a police officer owes
+a duty to a person under surveillance to ensure that he is informed of the
+24
+movements of other officers, at least before any intervention is immediately in
+prospect. If there were such a duty, it would only be to keep oneself
+reasonably well-informed, since it would not be practicable to keep note of the
+precise position of every officer and car. The thrust of the evidence is that Ms
+Dick did keep herself reasonably well-informed. She was aware, through the
+surveillance monitor in the control room, that surveillance officers were
+following Mr de Menezes and of what they were saying. In any event, as Mr
+Mansfield accepts, nothing could have been done to stop Mr de Menezes
+between his getting on the bus at Tulse Hill and his alighting at Stockwell. Ms
+Dick had firearms officers at the proper holding point at the time she wanted
+to deploy them. In the minutes before she ordered the intervention, she was
+relying upon information from Mr Esposito as to the position and readiness of
+the firearms team. In my judgment, she was entitled to rely upon that
+information. In all those circumstances, any failure on her part to keep herself
+informed was not causative of the fatal events in the carriage.
+56. Thirdly, it is submitted by Mr Mansfield that Ms Dick failed to exercise proper
+judgment in her decisions in the last critical minutes, after Mr de Menezes left
+the bus at Stockwell. In my judgment, she probably did owe a duty of care to
+him at this stage in making decisions and giving directions for an armed stop.
+However, she cannot fairly be said to have breached that duty. When she
+became aware that the subject of surveillance had left the bus, she ordered the
+firearms team to perform an armed stop. Upon hearing that they were not in a
+position to make the stop, she instructed the surveillance officers to do so.
+That order cannot be characterised as negligent. If there were any slight delay
+in giving the order, that can probably be explained by the need to take thought
+before ordering a suspected suicide bomber to be stopped by officers who
+were not trained for such situations. Once she was told that the firearms
+officers were in position, she countermanded the earlier order. It might be
+possible to say that she made the wrong decision at that point, given where Mr
+de Menezes was known to be, but these were fast-moving events and her
+decision cannot be described as negligent. Mr Mansfield says that using
+specialist firearms officers gave rise to a particular risk that lethal force would
+25
+be used. However, there were obvious advantages to using officers who had
+the training and experience to perform armed interventions in a public place.
+Chief Inspector Vincent Esposito
+57. Mr Esposito was Ms Dick’s firearms tactical adviser. It is not suggested that
+he actually took any of the decisions which resulted in the tragic death of Mr
+de Menezes. Therefore, it is inherently more difficult to establish any
+negligence against him.
+58. The first charge against Mr Esposito is that, upon arriving at New Scotland
+Yard at around 6am, he failed to take steps to expedite the despatch of a
+firearms team to the Scotia Road area. For the reasons already given, I do not
+consider that he would have owed a duty of care to Mr de Menezes in this
+regard. In any event, when he started work, all the critical decisions had been
+taken in relation to the firearms team deployments. It would probably not
+have been safe or sensible to try to expedite the deployments at that stage. As
+explained in paragraph 52 above, I do not think it can be established to the
+necessary standard of proof that any delay in deploying firearms teams was
+causally relevant to the death of Mr de Menezes.
+59. The second allegation is that he failed to devise a tactical plan to ensure that
+any suspect coming out of the block was stopped before reaching a bus stop.
+This is, in essence, the same as one of the allegations made against Ms Dick.
+For the reasons I have given in paragraph 54, this argument fails at every
+stage.
+60. The third point made in criticism of Mr Esposito is that he failed to pass on to
+Ms Dick accurate information about the position of the firearms officers in the
+minutes after it became apparent that Mr de Menezes was leaving the bus.
+However, Mr Esposito was reliant for his information on the tactical adviser
+who was with the team on the ground, ‘Trojan 84’. That officer initially told
+Mr Esposito that his team were ‘not in contention’ because they were behind
+the wrong bus. Mr Esposito duly passed on that information. Even if it were
+incorrect, it is difficult to criticise him for passing it on.
+26
+Gross Negligence
+61. For the reasons I have given, I have concluded that it could not be shown, to
+the necessary standard of proof, that the death of Mr de Menezes was caused
+by any negligent act of any of these three senior officers. If, contrary to that
+assessment, any of the allegations were made out, none approaches the level of
+gross or criminal negligence. The jury could not be properly asked to consider
+a verdict of unlawful killing based upon any of them.
+Narrative Conclusions
+62. I now turn to consider what, if any, further questions or conclusions should be
+offered to the jury. The following principles and guidance need to be borne in
+mind.
+(a) As is clear from the decision in Middleton, the most important
+consideration is that the Inquisition should resolve the key issues of
+fact in the case, at least to the extent that I have not already done so
+in this Ruling.
+(b) All Interested Persons have agreed that, in all the circumstances, I
+should only invite the jury to consider questions or conclusions
+directed at eliciting matters which are causally relevant to death.
+(c) The questions or conclusions offered should be simple. The risk of
+internally inconsistent answers should be avoided. Long
+questionnaires dealing with complex and abstract questions of
+policy and procedure have been deprecated by the Courts. See: R
+(Clayton) v South Yorkshire Coroner [2005] EWHC 1196 Admin;
+R (Scholes) v SSHD [2006] EWCA Civ 1343 at paragraph 70.
+(d) The questions or conclusions should be drafted to avoid any answer
+breaching Rule 36(2) or Rule 42.
+27
+(e) There is no principle or rule that the jury should be directed to use
+neutral or non-judgmental language. R (Cash) v Northamptonshire
+Coroner [2007] 4 All ER 903 at 921b-922c. The word ‘failure’
+can be used, as can other expressions which may be suggestive of
+fault. See: R (Smith) v Asst Deputy Coroner for Oxfordshire
+[2008] EWHC 694 Admin at paragraph 45. However, the
+vocabulary of civil negligence is inappropriate, as Lord Bingham
+said in Middleton at paragraph 37.
+63. Counsel have assisted me greatly by their submissions. Mr Mansfield and Mr
+Perry have both prepared draft jury questionnaires. Mr Hilliard has suggested
+a number of possible questions and optional conclusions. Mr King, appearing
+for the IPCC, commends a narrative verdict as a sensible way of eliciting the
+views of the jury on the complex questions raised by this case.
+64. Having considered those submissions carefully, I intend to put the following
+questions to the jury:
+Question Answer
+1. Did officer C12 or officer C2 shout the words ‘Armed YES / NO
+police’ at Mr de Menezes before firing?
+2. Did Mr de Menezes stand up from his seat after the YES / NO
+officers entered the tube carriage?
+3. Did Mr de Menezes move towards officer C12? YES / NO
+4. Do you consider that any of the following caused or
+contributed to the death of Mr de Menezes.
+[Answer ‘yes’ only if you find that the sentence
+accurately describes something which happened and
+which made some causal contribution to the death of Mr
+de Menezes.]
+(a) The suicide attacks and attempted attacks of July 2005 YES / NO
+and the pressure placed upon the Metropolitan Police in
+28
+responding to the threat.
+(b) The fact that better photographic images of the suspect, YES / NO
+Hussain Osman, were not obtained and provided to the
+surveillance team.
+(c) The general difficulty in providing an identification of YES / NO
+the man under surveillance (Mr de Menezes) in the time
+available and in the circumstances after he had left the
+block at Scotia Road.
+(d) The innocent behaviour of Mr de Menezes which YES / NO
+increased the suspicions of some officers.
+(e) The fact that the views of the surveillance officers YES / NO
+regarding identification were not accurately
+communicated to the command team and the firearms
+officers.
+(f) The fact that the position of the cars containing the YES / NO
+firearms officers was not accurately known to the
+command team as the firearms officers were approaching
+Stockwell Station.
+(g) The fact that surveillance officers were not used to YES / NO
+perform a stop on Mr de Menezes after he had got off the
+bus at Stockwell.
+65. It will be apparent to all Interested Persons that some of those questions are
+based on the questionnaire of Mr Mansfield, some on that of Mr Perry, and
+some on the submissions of Mr Hilliard. By answering those questions, the
+jury will be able to express their view on a number of important issues in the
+case.
+66. Mr Gibbs QC, who appears for the surveillance officers, and Mr Stern, both
+submit that questions should not be asked regarding the events which took
+place in the carriage. As will be clear from the questionnaire above, I have
+decided to reject those submissions. Mr Stern argues that the choice between
+29
+short-form verdicts will resolve the issues. I disagree. The jury could
+properly conclude that the officers acted in self-defence but that they are
+wrong in some aspect of their description of events. Mr Gibbs submits that
+Ivor was not challenged in his account that Mr de Menezes got up before he
+grabbed him. I am not persuaded that I should give overriding weight to that
+consideration. This is not a trial, and there is no obligation on Interested
+Persons (or on the coroner and counsel to the inquest) to put a case forward.
+See the classic statements of principle of Lord Lane CJ in R v South London
+Coroner, Ex Parte Thompson [1982] 8th July (CA, unreported). It is not
+necessary for a witness to be challenged on a point before a question can be
+asked going to an aspect of his account. In any event, in the particular case of
+Ivor, I do not consider that any particular answers would suggest that he was
+lying, rather than mistaken.
+67. Mr Mansfield submits that the jury should be provided with a further question
+inviting them to make any other finding which they consider relevant, subject
+to a number of limitations. I cannot accept that submission. The questions
+and conclusions set out above have been carefully selected to follow the
+principles and guidance under paragraph 62. In my judgment, they represent
+the best way of eliciting the conclusions of the jury without infringing the
+Rules or the guidance of the Courts.
+Conclusions
+68. In summary, I have decided that a verdict of unlawful killing should not be left
+to the jury, either on the basis of murder by C2 and C12 or on the basis of
+gross negligence manslaughter by one of Mr McDowall, Ms Dick or Mr
+Esposito. This is not to be taken by anyone as a conclusion on my part that
+nothing went wrong in the police operation which resulted in the death of Mr
+de Menezes. However, I could only leave one of those verdicts if I were
+satisfied that a jury could safely conclude beyond reasonable doubt that one of
+those five officers committed a very serious crime. Despite all Mr
+Mansfield’s skilful arguments, I cannot be satisfied of that.
+30
+69. The jury will be given the option to return a verdict of lawful killing or an
+open verdict. In addition, the questionnaire set out under paragraph 64 above
+will form part of the Inquisition. I intend to provide a short set of written
+directions on the law relating to the two short-form verdicts. That will be
+provided to Interested Persons for their consideration before I begin my
+Summing-up to the jury.
+Sir Michael Wright
+Assistant Deputy Coroner for Inner South London
+24th November 2008
+31

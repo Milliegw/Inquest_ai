@@ -1,0 +1,744 @@
+Inquest into the death of Jean Charles de Menezes
+Metropolitan Police Commissioner’s response to the Rule 43 Report
+Introduction
+1. On 7th January 2009 the Metropolitan Police Service (the MPS) received
+the Coroner’s report pursuant to Rule 43 of the Coroners Rules 1984 (as
+amended by the Coroners (Amendment) Rules 2008) (the Report). The
+Report contains the Coroner’s views on which MPS systems and practices
+should be reviewed in light of the evidence given at the inquest into the
+death of Jean Charles de Menezes which concluded on 12th December
+2008.
+2. In paragraph 4 of the Report, the Coroner stated that within 56 days of the
+date of the Report, the Commissioner and the Metropolitan Police
+Authority (the MPA) are required to ‘provide a written response
+containing - (a) details of any action that has been taken or which it is
+proposed will be taken in response to the report or otherwise; or (b) an
+explanation as to why no action is proposed.’
+3. Therefore, further to paragraph 4 of the Report, this response on behalf of
+the Metropolitan Police Commissioner, addresses each of the Coroner’s
+concerns in the order they appear in the Report.
+4. In addition to addressing these concerns, it is important to emphasise that
+since the tragic shooting of Jean Charles de Menezes the MPS has
+carefully reviewed (and continues to do so) its operating procedures in an
+attempt to ensure, as far as possible, that this type of incident does not
+reoccur.
+5. Any future terrorist activity will undoubtedly cross police force
+boundaries. It is sensible and expected that police forces provide a co-
+ordinated response to incidents which could involve simultaneous attacks
+in a number of locations. To ensure consistency across forces to enable
+effective management of all Counter-Terrorism incidents, including those
+of a smaller scale affecting just one force and those larger more complex
+operations involving multiple forces, the MPS is leading a national
+“Counter Terrorism Interoperability Project”. This will ensure national
+consistency in the areas of: command and control; firearms; surveillance;
+control rooms; and, technical support.
+6. The MPS recognises that much of the learning from July 2005 is not just
+relevant to London and is, through both the Counter Terrorism
+Interoperability Project and through representation on national working
+groups, ensuring that this learning is being considered during the revisions
+to relevant Association of Chief Police Officers (ACPO) Manuals (e.g.
+Manual of Guidance on the Police Use of Firearms and the Surveillance
+Manual) in an attempt to disseminate the learning throughout the UK.
+7. The statement of Commander Stewart referred to in paragraph 6 of the
+Report details the many reviews, reports and subsequent work that the
+MPS has undertaken internally. In paragraph 6 of the Report the Coroner
+states that it is apparent that the MPS has made efforts to resolve a number
+of the problems which are identified in his Report, but that there are some
+matters that remain to be addressed. Each of the Coroner’s concerns has
+been addressed in order in the following paragraphs.
+(1) Command Structure
+(a) Gold / Silver / Bronze Structure
+Concern
+8. The Report raises the concern that it was unclear precisely to what extent
+the Gold Commander was required to supervise the operation after setting
+the strategy. In addition, there was argument in the Inquest as to the
+freedom of the Silver Commander to adjust or refine the Gold strategy.
+The Report suggests that the MPS might usefully review the command
+structure and the ACPO Manual of the Police Use of Firearms, and
+consider whether there can be further clarification of the continuing role
+played by the Gold Commander after setting his strategy.
+Response
+9. The MPS is contributing to a revised ACPO Manual of Guidance on the
+Police Use of Firearms (to be called the ACPO Manual of Guidance on the
+Management, Command and Deployment of Armed Officers (the ACPO
+2
+Manual 2009)1). The guidance given in the current draft of the ACPO
+Manual 2009, in relation to the Gold and Silver Commanders’
+responsibilities, is broadly similar to the guidance given in the current
+ACPO Manual (the April 2006 version).
+10. The current draft of the ACPO Manual 2009 outlines that the Gold
+Commander MUST set, review, communicate and update the strategy
+based on the threat assessment, should maintain a strategic overview and
+must remain contactable by the Silver Commander.
+11. The current draft of the ACPO Manual 2009 outlines that the Silver
+Commander is responsible for developing and co-ordinating the tactical
+plan in order to achieve the strategy set by the Gold Commander. It
+envisages that the Gold Commander’s maintenance of the strategic
+overview will mean that strategies are developed to adapt to changing
+circumstances.
+12. However, the MPS considers that the Gold, Silver and Bronze terminology
+may not be flexible enough in operations which are particularly complex,
+where the firearms element is but one part of a much wider operation, and
+which therefore may require responsibility for the firearms functions to be
+given to other officers. The MPS is working to influence national
+guidance on this issue.
+13. Because of the need for a common approach to the command of firearms
+operations across all police forces, the MPS must continue to use the terms
+Gold, Silver and Bronze Commanders. However, the Gold Commander
+must consider the implementation of a command protocol at the outset of
+those more complex cases, outlining who has responsibility for handling
+each aspect of that operation.
+14. Command responsibilities are embedded in MPS firearms command
+training and are tested in exercise.
+15. To assist officers involved in complex Counter-Terrorism operations to
+understand which officers are responsible for each function, within the
+1 This revised Manual is anticipated for publication by June 2009 and is currently in draft form out for
+consultation with police forces in England and Wales
+3
+Control Room the command structure (with officer names identified) is
+displayed on screens alongside the strategy set by the Gold Commander.
+(b) Maintenance of Chain of Command
+Concern
+16. The Report requested that consideration is given to ensuring that, in major
+operations, the chain of command is maintained when a Gold or Silver
+Commander is absent (i.e. by nominating interim replacements).
+Response
+17. The ACPO Manual 2009 outlines the requirement to consider issues
+relating to continuity of command during extended operations and that the
+Gold Commander is responsible for the overall resourcing of an operation.
+18. The MPS accepts the need to maintain the chain of command throughout
+lengthy operations – this means replacement of key commanders to allow
+for periods of rest and adequate handovers (appropriately documented).
+This has been re-emphasised in practical exercises and in the training
+given to officers and will be included in an MPS command and control
+policy document due for internal release during 2009. This policy will
+complement the work being undertaken in the area of command and
+control by the Counter Terrorism Interoperability Project referred to in
+paragraph 5 above.
+19. During 2009/2010 the MPS is moving towards a dedicated team (a cadre)
+of officers to command firearms operations (including officers responsible
+for setting and reviewing the strategy and carrying it out) on a full time
+basis. Creating such a cadre has to be a carefully considered and staged
+process to ensure that only trained and appropriately experienced officers
+will perform command functions – particularly in complex and high-risk
+operations. The MPS will make sure that the introduction of such a cadre
+does not negatively impact upon specialist crime operations. An
+appropriately resourced cadre will prevent commanding officers having to
+work for excessive periods in charge of high-risk firearms operations and
+will allow for the smooth hand-over between cadre officers in the chain of
+command.
+4
+(c) DSO
+Concern
+20. The Report outlines in relation to the role of the DSO (Designated Senior
+Officer), the concern that all officers should know (i) when the DSO
+becomes involved in commanding an operation and (ii) precisely what
+command role he performs. The Report queries whether the DSO is to
+assume command from the start, or only to step in when an armed
+intervention is required.
+Response
+21. The MPS no longer uses the term DSO. Every firearms operation has a
+tactical firearms commander - recognised both in title and role in the
+ACPO Manual 2009. In the MPS, in cases of an emerging extreme threat
+(e.g. a suspected suicide bomber), the tactical command role will be
+assumed by a specially trained senior level officer (called the “Extreme
+Threat Tactical Commander”).
+22. Extreme Threat Tactical Commanders are now trained to state to Control
+Room staff the reason for their appearance in the Control Room, i.e. to
+announce what role they are performing – for example, a passive role of
+reviewing intelligence and not being in the command chain or having been
+appointed to take responsibility for tactical decision-making relating to the
+emerging extreme threat. Where an Extreme Threat Tactical Commander
+takes responsibility for tactical decision-making, they are trained to ensure
+that this is communicated to officers on the ground in addition to those in
+the Control Room.
+23. The role of this Extreme Threat Tactical Commander is not to manage the
+entire operation but to identify and deal with the emerging threat in
+accordance with the strategy. They will monitor emerging threats, will be
+appointed to take tactical command when a credible threat becomes
+apparent and will determine the tactical response appropriate to the threat.
+24. As stated in paragraph 5 above, the Counter Terrorism Interoperability
+Project will ensure national consistency in command and control. This
+will specifically include consistency in the Extreme Threat Tactical
+Command role through training accredited by the National Policing
+5
+Improvement Agency (the NPIA) and a structured national exercising
+programme.
+(2) Communications Systems
+(a) – (d) Radio Operation and Maintenance / Radio Coverage above Ground /
+Radio Coverage Underground / Communication between Teams
+Concern
+25. The Report highlighted concerns regarding communications – in particular
+in relation to the Cougar radio system in operation on 22 July 2005. The
+concerns included:
+a. difficulties in operating specific police radios;
+b. poor coverage and radio black spots (including no underground
+facility);
+c. undue reliance on mobile telephones; and
+d. the general need for an effective radio system allowing communication
+between different branches of the MPS engaged in the same operation.
+Response
+26. The MPS considers that the introduction of covert ‘Airwave’ radios
+(replacing the Cougar radios) addresses the above concerns. The
+technology to provide adequate levels of security on the covert Airwave
+system (as opposed to the non-covert Airwave system) was not available
+until 2006. The roll-out of the covert Airwave system within the MPS was
+completed by mid-May 2008. The new system addresses the 'range'
+problems experienced with the Cougar system. Secure communications are
+achievable between different MPS departments (including Control Rooms)
+and with other police forces and Agencies.
+27. The NPIA has completed its roll-out of the Airwave radio network to all
+125 sub-surface underground stations. This extension to the covert
+Airwave network provides officers with the ability to communicate with
+colleagues and other emergency services. Radio coverage is now available
+in all areas of the station below ground that are open to the public, such as
+platforms, escalators and booking halls.
+6
+28. There is also extensive tunnel coverage and by autumn 2009 the project to
+complete Airwave network coverage in all tunnels is scheduled to be
+complete.
+29. In conclusion, the MPS considers that the introduction of the covert
+Airwave radio system addresses the difficulties highlighted by the
+Coroner’s concerns. In particular, the use of effective radios should
+reduce the need for officers to use mobile telephones to simply relay
+information to their colleagues. However, as the Report points out in
+paragraph 14, mobile telephones may be appropriate for confidential
+communications between particular officers.
+(e) Language
+Concern
+30. The Report includes a concern in relation to the way officers use police
+terminology and the need to ensure that all officers have the same
+understanding of what this terminology means.
+Response
+31. The MPS recognises the need for definitive terms for use in joint
+surveillance and firearms operations to ensure consistency and clarity of
+understanding across police forces. The MPS is currently contributing to
+the creation of a national glossary of terms relating to the command and
+control of operations involving surveillance and firearms with a view to its
+formal adoption as a national standard for use across police forces.
+32. The use of terminology in relation to identifying persons under
+surveillance is addressed within the ‘Identification’ section below.
+(3) Radio Discipline
+(a) – (b) The Speaker Announcing Himself / Acknowledging Messages
+Concern
+33. The Report includes concerns in relation to how officers use the radios and
+in particular:
+a. the failure of speakers giving important announcements to identify
+themselves; and
+7
+b. there was no system for ensuring that officers acknowledged a message
+/ question – silence can mean they cannot answer the question or they
+didn’t hear the question.
+Response
+34. The MPS surveillance training, both in July 2005 and now, emphasises the
+need for brevity of communication during a surveillance operation.
+Training includes that when a surveillance officer takes over the
+surveillance commentary of a subject, it is announced over the covert radio
+who that officer is. From that point onwards all the commentary on the
+subject will be coming from that officer. The training also emphasises that
+irrespective of rank or status, no other officer will transmit a message
+without asking permission of that officer. If an officer makes this request,
+they will identify themselves at the point of making the request.
+35. Each surveillance team will have a dedicated loggist who will be following
+the surveillance commentary and recording material surveillance
+information and attributing this information to the relevant surveillance
+officers. At the end of the operation, the surveillance team will review the
+surveillance log to ensure that it accurately records who said what and
+when.
+36. In addition to the surveillance log completed by the loggist, MPS
+surveillance policy issued in August 2008 now requires the surveillance
+team leader to complete a “Surveillance Management Record” during the
+surveillance operation, which is aimed at providing a sequential record of
+the administration of the surveillance operation. This record will provide
+an audit trail for identification issues relating to the subject(s) under
+surveillance. This will include what level of identification has been
+achieved, when and why.
+37. Further information on identification issues has been included below in
+response to other concerns included in the Report.
+38. In relation to acknowledging messages, the training teaches that a question
+or instruction to all surveillance officers will not be automatically
+acknowledged by every officer individually – to do otherwise may disrupt
+the surveillance commentary. One officer will indicate that they have
+heard the message and therefore that a successful transmission has taken
+8
+place. Common practice is that if the message is not acknowledged at all,
+it will be repeated. The better quality radio equipment discussed above
+provides additional confidence that all messages should be heard
+throughout the surveillance team.
+39. Surveillance radio discipline and procedures are continually assessed
+throughout the surveillance training course.
+(4) Location Information
+(a) – (b) Maps in the Control Room / Use of Maps to Assess Surveillance Plot
+Concern
+40. The Report suggests that guidance should be given in relation to
+displaying maps in the Control Room and attempts to plot the approximate
+locations of different teams.
+41. Furthermore, the Report suggests that guidance is given to Gold and Silver
+Commanders that, in surveillance-based operations, the Geographia and /
+or other maps should be checked to ascertain the nature of the premises
+under surveillance.
+Response
+42. The MPS now has the technology to display a variety of maps (showing
+different types of information) within the Control Room and commanding
+officers are aware of this capability. There are a number of MPS staff
+trained in the use of mapping technology in both the Crime and Counter-
+Terrorism Control Rooms. This technology has been tested in exercise
+and is now commonly used in live operations.
+43. The MPS is currently testing a new Counter-Terrorism Control Room
+which incorporates technology enabling tactical commanders to display
+maps over-laid with detailed information (e.g. the position of relevant
+addresses (and the nature of premises) and officers) on large screens.
+44. Ongoing developments in Control Room technology are being co-
+ordinated through the Counter Terrorism Interoperability Project to
+achieve national consistency.
+9
+(c) Transferring Imagery
+Concern
+45. The Report speculates that developing technology may allow officers on
+the ground to transfer to the Control Room visual imagery of important
+locations. This may assist in directing surveillance and firearms officers.
+Response
+46. The MPS has developed a range of technologies to allow the transfer of
+visual imagery from locations on the ground to the Control Room. This
+includes some access to CCTV feeds owned by 3rd parties. The tactical
+firearms command course (for officers who command high-risk
+intelligence led covert operations involving firearms) includes awareness
+training on the existence and capabilities of these technologies.
+(d) Tracker Technology
+Concern
+47. The Report suggests that it may be possible in future for GPS/tracker
+technology to be used to ascertain the positions of vehicles engaged in
+surveillance or pursuit and to display those positions on screens in the
+Control Room.
+Response
+48. The MPS has initiated a project to provide a means for enabling Control
+Room staff to monitor and display the changing locations of firearms and
+surveillance officers in appropriate operations. The project intends to
+implement this technology during 2009.
+(5) Identification
+Concern
+49. The Report expresses a concern that procedures for making and
+communicating identifications should be reviewed.
+(a) Terminology
+50. In particular, the Report indicated that clear terminology ought to be used
+to indicate the level of confidence with which a particular identification is
+made.
+10
+Response
+51. The MPS recognises that the effective identification of an individual who
+is the subject of a surveillance operation is crucial, not only to the success
+of an operation but also to ensure that all necessary steps are taken
+effectively to manage the safety of that individual, the public and
+surveillance operatives. To assist with this objective, the MPS has
+enhanced the national identification system. The detail of the system used
+is sensitive. However, in short a small part of the system formalises
+identification of subjects by putting them into three general categories:
+a. Positive identification (where the operative has either personal
+knowledge of the subject or is making a judgment based on an honestly
+held belief arising from all the information available (e.g. descriptive
+characteristics / visual imagery));
+b. Possible identification (where there is insufficient information
+available for the operative to make a positive or negative identification
+(e.g. where there is no photograph or other media available and the
+operative does not know the subject));
+c. Negative identification (where there is sufficient information for an
+operative to make a judgment based on an honestly held belief that a
+person under surveillance is not the subject).
+52. The MPS recognises that in particular circumstances achieving a positive
+or negative identification quickly can be very difficult. The system
+developed to assist identification includes not just the provision of
+photographs but the use of background intelligence to support the
+subjective view of a surveillance officer that the person under surveillance
+is or is not the subject of the operation.
+(b) Use of photographs
+Concern
+53. The Report indicated that consideration should be given to advising
+officers to take photographs of the subjects of the operation with them
+unless particular circumstances dictate otherwise.
+11
+Response
+54. This issue is currently being reviewed and guidance will be issued to
+officers in a revision to surveillance policy.
+(c) Provision of photographs
+Concern
+55. The Report suggests that the following topics should be reviewed to assist
+the MPS in identification of subjects in intelligence-led operations:
+a. how to ensure that other agencies can be contacted (day or night) to
+obtain further photographs and information about suspects;
+b. what guidance should be given on reviewing files of related operations
+to obtain further information on suspects; and
+c. what guidance should be given on the use of photographs obtained
+from crime scenes to aid identification.
+Response
+56. The MPS does have 24-hour access to many agencies to assist with
+acquiring photographs and background information. Access does vary
+between different agencies – especially in terms of length of time between
+the request and receipt of the information (which differs between office
+hours and non-office hours access). The MPS is reviewing how we can
+achieve quicker and better access.
+57. In relation to reviewing files of related operations to obtain further
+information on subjects, the MPS is conducting a review of the use of
+intelligence (especially photographic intelligence) throughout the MPS to
+support identification of subjects. In 2005 the MPS set up a dedicated unit
+within the Counter Terrorism Command to review and collate
+photographic intelligence.
+58. In relation to guidance on the use of photographs obtained at crime scenes
+to aid identification, the MPS has included in the surveillance policy
+document (August 2008) more detail on the use of photographs to brief
+surveillance teams. The policy makes clear that it is the responsibility of
+the operational team to declare the provenance (source and reliability) of
+any photographs or media presented at the briefing. There is an emphasis
+12
+on the use of photographs, such as those taken at police stations following
+a person’s arrest, where identity has been confirmed.
+59. However, it is recognised by the MPS that surveillance officers
+particularly should be given the best images available (bearing in mind the
+fast-moving nature of some operations) to enable them to make an
+identification. Guidance on the necessity to consider the best images
+available will be incorporated in a revision to MPS surveillance policy
+during March 2009. This may include photographs recovered from crime
+scenes – however, with the necessary warning about any lack of
+provenance.
+(d) Transmission of Photographs
+Concern
+60. The Report suggests that developments in technology may make it
+possible in future for surveillance officers to take photographs covertly and
+to transmit them to a Control Room and also for photographs to be
+transmitted from the Control Room to surveillance officers.
+Response
+61. The MPS is now able to transfer images of subjects and persons under
+surveillance between officers on the ground and the Control Room.
+However, this facility is currently limited to specific departments within
+the MPS where an assessment has been made that the high-risk to life
+outweighs the risk of sensitive information being intercepted or lost.
+There is an ongoing project to trial equipment with higher levels of
+security that has recently become available and which is capable of wider
+information dissemination - for eventual use across all relevant MPS
+departments.
+(6) Rules of Engagement and Code-Words
+(a) Rules of Engagement
+Concern
+62. In relation to “Rules of Engagement”, the Report suggests that the MPS
+considers giving guidance to officers in relation to the following areas:
+13
+a. providing criteria, or a list of considerations, to assist firearms officers
+to decide whether to issue a challenge or to fire a critical shot without
+warning;
+b. linking criteria to an improved system for designating levels of
+identification;
+c. devising practical training for firearms officers to assist them in
+determining the appropriate response.
+Response
+63. The MPS recognises that it is important to provide firearms officers with
+as much assistance as possible in identifying the criteria / considerations to
+take into account when engaging in the very difficult decision-making
+required when they confront a suspected suicide terrorist. In relation to
+“challenge”, the ACPO Manual 2009 advises that firearms officers should
+issue a challenge unless to do so would unduly place any person at risk.
+64. Due to the varied situations in which firearms officers may find
+themselves, an exhaustive list of considerations, focussed on whether to
+issue a warning or not, is not desirable.
+65. The MPS considers that officers should engage in a process to assess threat
+and risk and then respond accordingly.
+66. This process is described in the ACPO Manual 2009 as the Conflict
+Management Model. In general terms, this model requires firearms
+officers to consider the following:
+a. Information / intelligence - the information / intelligence provided to
+them (in briefings before and during the operation) and the information
+which becomes apparent to them through their own observations;
+b. Threat Assessment – use the information they have to make an on-
+going assessment of the likelihood and extent of harm being caused by
+the person;
+c. Powers and policy – make an assessment of the powers (legal) and
+policies applicable to the circumstances;
+d. Tactical options – deciding which tactical option(s) is the most
+appropriate in the circumstances (e.g. wait; take mitigating action;
+keep the person under observation; contain the area; challenge);
+e. Actions - putting the chosen tactical option into effect.
+14
+67. The decision on whether to issue a “challenge” is at the tactical option
+stage of the process and is informed by the previous stages, accompanied
+by an assessment of the risks posed to any person by issuing that
+challenge.
+68. The “identification” of the person is part of the information / intelligence
+stage of the model and the firearms officers’ understanding of the level of
+certainty regarding identification should be greatly assisted by the three
+levels of identification outlined above.
+69. In relation to training, there is ongoing practical training for firearms
+officers in the application of the Conflict Management Model. The aim of
+this model is to determine an appropriate response to a firearm officer’s
+honestly held belief in the circumstances presented to that officer. This
+includes training for all firearms officers for circumstances involving
+confronting suicide bombers.
+70. Specific Counter-Terrorism exercises involving a developing suicide
+terrorist threat (which often culminate in a confrontation with a suicide
+bomber threat) are regularly conducted and involve the use of Specialist
+Firearms Officers (SFOs) (from the MPS Specialist Firearms Command
+(CO19)).
+(b) Code-Words
+Concern
+71. The Report endorsed the development of a system of Code-Words to be
+used by senior officers to give instructions for firearms officers to take
+particular action – for consistent use in: pre-planned; intelligence-led; and
+spontaneous situations.
+Response
+72. The MPS agrees that words of command should be consistent across all
+types of police operations. However, after much consideration the MPS
+has decided not to use Code-Words with preference to clear words of
+command which can be universally understood by all officers and are less
+likely to be misinterpreted.
+73. The MPS approach to this issue is consistent with the ACPO Manual 2009
+which considers the use of plain language to convey critical decisions is
+15
+important to reduce the potential for confusion. The Manual warns that
+care should be taken in respect of the use of Code-Words or complex
+descriptors which have the potential to confuse staff involved, i.e. officers
+may mistakenly attribute the wrong action to a Code-Word.
+74. Therefore, the MPS has revised its procedures for use in suicide bomber
+situations and has removed reference to Code-Words to reflect this
+conclusion.
+(c) Communication of intelligence
+Concern
+75. The Report highlights the importance of ensuring that intelligence is
+communicated to officers on the ground in so far as that is possible. The
+Report further states that if a firearms officer is expected to exercise his
+own independent judgment before firing a critical shot, he should be kept
+informed of what is known about the suspect.
+Response
+76. The ACPO Manual 2009 makes clear that firearms officers should be
+given the fullest briefing possible which should include the intended
+course of action and incorporate a range of contingencies that provide
+officers with as much clarity as possible as to the role they may have to
+undertake. The Manual goes on to emphasise that the Silver Commander
+should ensure that the level of threat assessed, the reasons for it, and the
+reliability of the information are include in the briefing. There is also a
+recognition in the Manual that firearms officers should be continually
+updated with relevant information during their deployment.
+77. The importance of communicating information and intelligence to officers
+“on the ground” is well understood by commanding officers within the
+MPS. These officers place a high importance on the need to communicate
+information and intelligence through to officers “on the ground”. To assist
+with this the MPS is moving towards the issue of secure equipment to all
+“on the ground” officers to enable tactical commanders to directly pass
+regular briefing documents and photographs. In addition to the use of
+covert Airwave radios, this secure equipment should also reduce reliance
+on the use of mobile telephones.
+16
+78. However, the ACPO Manual 2009 also recognises that there may be
+circumstances where due to the immediacy and proximity of a threat, there
+is not time to update a firearms officer on the unfolding circumstances and
+a direction needs to be given to a firearms officer to take decisive action.
+This may include a time critical discharge of firearms to protect life.
+Furthermore, the Report recognises that, “It may well be impossible to
+provide full information to those engaged in a fast-moving operation.”
+The MPS procedures for dealing with extreme threats to life take account
+of this guidance but recognise that this is an exception to the general
+position that all relevant intelligence / information is disseminated.
+(7) Surveillance officers / firearms officers
+(a) Joint Briefings and Joint Training Operations
+Concern
+79. The Report emphasised that where possible briefings for firearms officers
+and surveillance officers should be held jointly and should be audio or
+video recorded to avoid uncertainty about their tone or content arising
+later.
+80. The Report also suggests that joint training of firearms and surveillance
+officers may help them to work together.
+Response
+81. MPS firearms procedures outline that the general principle for briefings is
+that all staff deployed on an operation should be present at the briefings.
+The procedures accept that in some exceptional circumstances this will not
+be possible. In these circumstances the reasons will be recorded and
+where possible alternative arrangements to brief those omitted staff will be
+made.
+82. All intelligence briefings by Tactical Firearms Commanders to firearms
+officers in planned operations are audio-recorded. Following a successful
+pilot project, this requirement became policy throughout the whole of the
+MPS from the beginning of 2008.
+83. In relation to joint training, the MPS conducts a minimum of 6 Counter-
+Terrorism exercises per year. The aim of these exercises is to test the
+relationship between the Control Room and officers on the ground and to
+17
+ensure that the surveillance and firearms officers understand each others’
+roles and work well together. All SFO teams were involved in this
+exercising during 2008. This is in addition to all the exercises
+incorporated into regular refresher training for firearms and armed
+surveillance officers. Funding has been agreed to expand the capability of
+the MPS surveillance training unit to provide an additional rolling
+programme of exercises involving all armed surveillance teams with
+officers from CO19.
+84. In addition, MPS officers participate in a number of other Counter
+Terrorism related training exercises (involving surveillance and firearms
+teams) throughout the year with other police forces and partner agencies.
+85. SFO teams regularly work in support of surveillance officers on non-
+Counter Terrorism crime operations and less often in Counter-Terrorism
+operations. Therefore, in addition to the exercising, since 2008 Counter-
+Terrorism surveillance teams have been increasingly involved in non-
+terrorist crime operations specifically to increase their familiarity in
+working with SFO teams. From the 1st April 2009 Counter-Terrorism and
+Crime surveillance teams will be amalgamated into a single dedicated
+surveillance command.
+(b) Awareness of other officers
+Concern
+86. The Report placed importance on ensuring that surveillance, firearms and
+arrest teams are aware of each others’ presence and position during the
+course of operations e.g. that surveillance officers are informed that
+firearms are joining a surveillance plot or that the arrest teams have been
+deployed.
+Response
+87. Command training and Counter-Terrorism exercises emphasise the need to
+ensure that officers on the ground are updated as to the addition of other
+teams into the operation.
+88. The use of better technology (e.g. covert Airwave radio) should assist in
+distributing information to officers on the ground during the operation.
+18
+89. The joint briefings enable officers from each of the teams to understand
+which other teams will be involved in the operation and what each team
+may be asked to do.
+(c) Training of surveillance officers
+Concern
+90. The Report suggests that consideration might usefully be given to training
+at least some armed surveillance officers in how to perform a stop of a
+suspected suicide terrorist.
+Response
+91. The MPS view is that it will always be desirable to use SFOs (the best-
+trained firearms officers with specialist weaponry and equipment)
+wherever possible to confront suicide terrorists. The MPS is developing
+additional training to allow small teams of SFOs to operate within the
+surveillance team to support rapid intervention where necessary.
+92. However, it is recognised that there may be circumstances where armed
+surveillance officers have to use firearms to protect themselves, their
+unarmed colleagues and the public as an immediate reaction to the
+emergence or presence of a person posing an imminent lethal threat. This
+would include the sudden emergence of an extreme threat like a suicide
+terrorist.
+93. Training for armed surveillance officers has included exercises during
+which armed surveillance officers must decide what action to take to
+mitigate an emerging extreme threat and where the rationale for the option
+chosen (which may be to incapacitate the person) is explored.
+94. From April 2009 both the initial firearms training course and subsequent
+re-accreditation training for all armed surveillance officers will include an
+additional training element to control subjects within the context of a
+suddenly emerging extreme threat, such as a suicide terrorist. Within these
+courses will be training in how to engage, challenge or incapacitate a
+suicide terrorist where it becomes necessary in response to such a suddenly
+emerging extreme threat, considering the weapons available to them and
+the environment in which they are operating.
+19
+(8) Other points of concern
+(a) Recording of Briefings and Control Room Activity
+Concern
+95. The Report suggests that consideration might be given to recording at least
+some briefings and Control Room discussions in important operations.
+Response
+96. The Counter Terrorism and Crime Operations Rooms (the Control Rooms)
+have the capability to audio record radio transmissions, telephone lines and
+ambient noise (e.g. room activity including conversations). These rooms
+also have the capability of being videoed.
+97. Separate from the recordings of firearms briefings (as detailed above),
+there is some capability for briefing rooms attached to the Control Rooms
+to be audio and video recorded.
+98. All recording facilities will be activated when an extreme threat emerges.
+On-going work
+99. The MPS recognises that it may be desirable to increase the use of
+recording facilities to other operations. However, the MPS is mindful of
+the cost implications of recording this information, the subsequent
+obligations to convert this information into evidence (further to the
+requirements laid down by the Criminal Procedures and Investigations Act
+1996) and also the need for nationwide consistency. As stated in
+paragraph 5 above, Serious Crime and Counter Terrorism operations are
+rarely confined to the boundaries of one police force. Therefore, the MPS
+is currently engaged in a national review in relation to this subject. This
+review is looking at:
+a. the scope of the recording (i.e. what exactly do we need to capture);
+b. the equipment capability (i.e. whether the equipment can in fact
+capture the required information - the quality of the recording can be
+poor in relation to ambient recording because of the busy operating
+environment);
+c. the management of the product (i.e. whether relevant information can
+be identified and transcribed); and
+20
+d. the extent of the use of the recording equipment (i.e. whether we
+should have the recording facilities switched on all the time and if not,
+which operations we should be recording).
+(b) Preparation of Notes / Statements
+Concern
+100. Following the cross-examination of the officers at the inquest, the recent
+case of R (Saunders) v IPCC [2008] EWHC 2372 Admin and the recent
+ACPO guidance on the making of post-incident notes, in the Report the
+Coroner added his voice, “…to those recommending that clear guidance be
+given to ensure that officers should in future prepare early and independent
+accounts of any police actions which result in fatal or other serious
+injuries.” The Report also suggests that serious consideration should also
+be given to audio / video recording of post-incident debriefings.
+Response
+101. On 24th October 2008 the Chief Constable's Council proposed and
+accepted an amendment to the provisions falling within the current ACPO
+Manual of Guidance on the Police Use of Firearms stating as follows:
+"As a matter of general practice officers should not confer with others
+before making their accounts (whether initial or subsequent accounts). The
+important issue is to individually record what their honestly held belief of
+the situation was at the time force was used. There should be no need for
+an officer to confer with others about what was in their mind at the time
+force was used. If, however, in a particular case a need to confer on other
+issues does arise, then, in order to ensure transparency and maintain
+public confidence, where some discussion has taken place, officers must
+document the fact that this has taken place, highlighting the time, date and
+place where conferring took place, the issues discussed, with whom and
+the reasons for such discussion. There is a positive obligation on officers
+involved to ensure that all activity relating to the recording of accounts is
+transparent and capable of withstanding scrutiny.”
+102. In response, the MPS has adopted this principle and has issued interim
+instructions to armed commands in relation to how to implement this in
+practice. The MPS firearms procedures will be updated following
+21
+finalisation and publication of the ACPO Manual 2009 and the instruction
+relating to note-making and conferring will be included.
+103. However, the MPS believes that the whole issue of note-making and
+conferring must be related to the need to identify a system that ensures the
+most accurate recollection of events is recorded to assist a fair
+investigation. Therefore, the MPS and the Police Federation have
+commissioned Portsmouth University to conduct scientific research on this
+subject.
+104. The MPS is also reviewing how the principles in relation to note-making
+and conferring should apply to all other cases of police related death and
+serious injury.
+105. In relation to the suggestion in the Report that serious consideration should
+also be given to the audio and video recording of post-incident de-
+briefings, the MPS will consider this suggestion further both internally and
+through engagement with all relevant parties (e.g. ACPO, the IPCC, the
+Police Federation etc).
+106. For consistency within the MPS, this issue requires consideration in
+relation to all post-incident debriefs relating to all serious incidents (i.e.
+firearms, public order, fatal collisions involving police vehicles etc) and
+not just the debriefs relating to firearms incidents.
+107. In addition, to ensure consistency throughout England and Wales, the
+suggestion needs to be addressed throughout all police forces within
+England and Wales.
+Concluding Comments
+108. The inquest into the death of Jean Charles de Menezes provided the
+opportunity publicly to examine, in detail, all facets of the police response
+to a complex, fast moving and high-risk operation, set against the
+background of recent suicide attacks.
+109. In his Report the Coroner acknowledges the work already undertaken
+within the MPS to resolve some of the issues that were identified before
+and during the inquest, however, he also states that some matters remain
+unresolved.
+22
+110. It is right that the public must feel assured that the processes and
+procedures adopted by the police are fit for purpose, particularly when
+firearms are used. To this end it is important that critical reviews continue,
+taking into account all surrounding circumstances.
+111. The preceding paragraphs give the current MPS response on the vital areas
+identified by the Coroner, however, the work undertaken following the
+tragic events of 22nd July 2005 has left a legacy, whereby operational
+options are continually reviewed in the light of current threat, intelligence
+and available technology. We hope to have identified in this response
+where this continual reviewing is currently occurring.
+112. The MPS is committed to ensuring that, as far as possible, no other family
+has to suffer the anguish experienced by the relatives of Jean Charles de
+Menezes.
+Commander Moir Stewart (chair of the July Review Group)
+for and on behalf of the
+Commissioner of Police of the Metropolis Sir Paul Stephenson QPM
+20 February 2009
+23
