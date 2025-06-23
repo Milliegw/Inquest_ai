@@ -1,11 +1,30 @@
-QUESTION: Extract and list every instance in the provided documents where police evidence is described as dishonest, unreliable, inaccurate, or otherwise questioned. For each instance, include the relevant quote or passage from the documents.
+QUESTION: List all issues or concerns in the provided documents related to the following categories. For each, provide the relevant quote or passage and specify the type of evidence or record involved:
+1. CCTV or video footage (missing, unavailable, technical faults, not preserved)
+2. Audio/video recording of briefings, control room activity, or communications (missing, not made, not preserved)
+3. Telephone or radio records (missing, destroyed, unavailable)
+4. Handling, alteration, or overwriting of notes, statements, or logs (including collaboration on statements, overwritten notes, or logs not continued)
+5. Prioritization or failure to use available evidence (e.g., photographs, intelligence, or imagery not accessed or used)
+For each instance, provide the relevant quote or passage from the documents, and specify the type of evidence or record involved.
 
 RESPONSE:
-Following are the instances where police evidence is described as dishonest, unreliable, inaccurate, or otherwise questioned:
+Based on the provided documents, the following issues or concerns are listed:
 
-* Allegations of dishonesty were made which would have been impossible to make in the absence of collaboration. (From paragraph 14)
-* Following the decision of Underhill J in R (Saunders) v [PCC [2008] EWHC 2372 Admin, ACPO has modified its guidance... It also recommends that statements include details of any conferring which has taken place. See paragraphs 4.1 -4.8. This suggests that police evidence may not be independent or accurate.
-* The Higher Courts have repeatedly expressed concern about the practice of witnesses conferring in the preparation of their accounts. (From paragraph 45)
-* Serious consideration should also be given to audio- and video-recording of post-incident debriefings, implying that police evidence may not always be reliable.
+1. CCTV or video footage:
+	* Not found in the documents.
 
-Note: These instances are based solely on the provided documents and do not rely on prior knowledge or speculation.
+2. Audio/video recording of briefings, control room activity, or communications:
+	* "Serious consideration should also be given to audio- and video-recording of post-incident debriefings." (Document: Report on 4th December 2008)
+
+Type of evidence or record involved: Audio/video recordings of post-incident debriefings.
+
+3. Telephone or radio records:
+	* Not found in the documents.
+
+4. Handling, alteration, or overwriting of notes, statements, or logs:
+	* "These notes were made on Skye computer at New Scotland Yard when the events were clear in my mind... I do not recall whether or not modifications were made in this period." (Document: October 21, 2008)
+	* "The original document no longer exists, having been overwritten by the modified version." (Document: October 21, 2008)
+
+Type of evidence or record involved: Notes and logs.
+
+5. Prioritization or failure to use available evidence:
+	* Not found in the documents.

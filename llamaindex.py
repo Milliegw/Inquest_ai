@@ -33,6 +33,9 @@ index = VectorStoreIndex.from_documents(documents)
 query_engine = index.as_query_engine()
 
 # Explicit instructions to reduce hallucination and bias
+# ...imports and setup...
+
+# Explicit instructions to reduce hallucination and bias
 instructions = (
     "Instructions: Only answer using information found in the provided documents. "
     "If the answer is not present, say 'Not found in the documents.' "
@@ -41,7 +44,6 @@ instructions = (
     "When listing allegations or reliability issues, include direct quotes or references from the documents where possible.\n\n"
 )
 
-
 analysis_instructions = (
     "You are an expert in law, technology, and ethics. "
     "Reflect on the implications of using AI/NLP in the context of inquests like those described in the documents. "
@@ -49,14 +51,27 @@ analysis_instructions = (
     "Be critical, balanced, and cite examples where possible.\n\n"
 )
 
-# List of main and meta-questions
 questions = [
-    "Extract and list every instance in the provided documents where police evidence is described as dishonest, unreliable, inaccurate, or otherwise questioned. For each instance, include the relevant quote or passage from the documents.",
-    "List any evidence presented by the police during the inquest that was later shown to be misleading, incorrect, inaccurate, or contradicted by other information.",
-    # ...more fact-based questions...
+    (
+        "List all issues or concerns in the provided documents related to the following categories. For each, provide the relevant quote or passage and specify the type of evidence or record involved:\n"
+        "1. CCTV or video footage (missing, unavailable, technical faults, not preserved)\n"
+        "2. Audio/video recording of briefings, control room activity, or communications (missing, not made, not preserved)\n"
+        "3. Telephone or radio records (missing, destroyed, unavailable)\n"
+        "4. Handling, alteration, or overwriting of notes, statements, or logs (including collaboration on statements, overwritten notes, or logs not continued)\n"
+        "5. Prioritization or failure to use available evidence (e.g., photographs, intelligence, or imagery not accessed or used)\n"
+        "For each instance, provide the relevant quote or passage from the documents, and specify the type of evidence or record involved."
+    ),
+    (
+        "Extract and list, in as much detail as possible, every instance in the provided documents where police evidence, statements, or procedures are described as dishonest, unreliable, inaccurate, incomplete, misleading, or otherwise questioned. "
+        "For each instance, provide the relevant quote or passage from the documents, and specify the context (e.g., conferring on accounts, alteration of logs, communications failures, evidence handling, expert witness reliability, etc.). "
+        "Organize your answer by theme (e.g., Conferring on Accounts, Surveillance Logs, Communications, Evidence Handling, Expert Witnesses, etc.), and use bullet points for clarity. "
+        "Include both explicit allegations and any concerns, criticisms, or recommendations related to the reliability or accuracy of police evidence or procedures."
+    ),
+    (
+        "For each theme above, expand with all subpoints, criticisms, and recommendations, and include any relevant paragraph or page references if available."
+    )
 ]
 
-# Analysis/meta-questions (allow general knowledge)
 analysis_questions = [
     "How might using AI/NLP to summarize and interrogate inquest documents affect the speed and quality of legal analysis?",
     "Can AI help detect inconsistencies or possible evidence tampering in inquest documents? What are its limitations?",
@@ -67,18 +82,22 @@ analysis_questions = [
 
 os.makedirs("llamaindex_outputs", exist_ok=True)
 
-# Fact-based Q&A
 for i, question in enumerate(questions, 1):
     full_prompt = instructions + question
-    response = query_engine.query(full_prompt)
+    try:
+        response = query_engine.query(full_prompt)
+    except Exception as e:
+        response = f"Error: {e}"
     print(f"\nQ{i}: {question}\nA: {response}\n")
     with open(f"llamaindex_outputs/question_{i}.txt", "w") as f:
         f.write(f"QUESTION: {question}\n\nRESPONSE:\n{response}")
 
-# Analysis/meta Q&A
 for i, question in enumerate(analysis_questions, 1):
     full_prompt = analysis_instructions + question
-    response = query_engine.query(full_prompt)
+    try:
+        response = query_engine.query(full_prompt)
+    except Exception as e:
+        response = f"Error: {e}"
     print(f"\nAnalysis Q{i}: {question}\nA: {response}\n")
     with open(f"llamaindex_outputs/analysis_question_{i}.txt", "w") as f:
         f.write(f"QUESTION: {question}\n\nRESPONSE:\n{response}")
