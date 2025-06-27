@@ -1,12 +1,30 @@
 QUESTION: For each theme above, expand with all subpoints, criticisms, and recommendations, and include any relevant paragraph or page references if available.
 
 RESPONSE:
-Theme: Allegations of dishonesty were made which would have been impossible to make in the absence of collaboration.
+**Theme 1:**
 
-Subpoints:
+* The practice of witnesses conferring in the preparation of their accounts has been a concern for the Higher Courts.
+* This is evident from recent years' repeated expressions of concern about this practice.
+* The resulting investigation should comply with the procedural obligation inherent in Article 2 of the ECHR, which requires the state to secure the best evidence by a fair, independent, and transparent process. (Page reference: Not applicable)
 
-* Officers were cross-examined on the basis that their evidence was not the product of independent recollection.
-* Allegations of dishonesty were made.
+**Theme 2:**
 
-References:
-Paragraph 15, page number not specified.
+* The ACPO guidance recommends that officers should ordinarily give their accounts as soon as practicable and without conferring with each other.
+* Statements should include details of any conferring which has taken place.
+* This is to ensure the best evidence by a fair, independent, and transparent process. (Page reference: 44)
+
+**Theme 3:**
+
+* Allegations of dishonesty were made, which would have been impossible to make in the absence of collaboration.
+* The reliability of witnesses' accounts was questioned due to the practice of conferring in their preparation.
+* This has led to concerns about securing the best evidence by a fair, independent, and transparent process. (Page reference: 15)
+
+**Theme 4:**
+
+* The MPA issued a Report on December 4th, 2008, formally recognising that the ACPO guidance would be followed in fatal shooting investigations.
+* The report mentioned the MPS's commissioning of a Gold group under DAC Hitchcock to develop further guidance and the Directorate of Professional Standards' development of a new post-incident procedure. (Page reference: 46)
+
+**Theme 5:**
+
+* Recommendations were made for clear guidance to be given to ensure that officers prepare early and independent accounts of any police actions which result in fatal or other serious injuries.
+* Serious consideration was given to audio- and video-recording of post-incident debriefings. (Page reference: 46)
