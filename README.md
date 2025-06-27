@@ -143,8 +143,8 @@ This will build an index over all documents in `plain_texts` and answer your que
 This project is licensed under the MIT License - see the full license text below for details.
 
 ### MIT License
-
-Copyright (c) [Year] [Your Name or Organization]
+s
+Copyright (c) [2025] [Camilla Graham Wood]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
