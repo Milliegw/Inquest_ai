@@ -1,12 +1,61 @@
 QUESTION: For each theme above, expand with all subpoints, criticisms, and recommendations, and include any relevant paragraph or page references if available.
 
 RESPONSE:
-Theme: Allegations of dishonesty were made which would have been impossible to make in the absence of collaboration.
+**Concerns about Collaboration**
+
+Concerns were expressed about the practice of witnesses conferring in the preparation of their accounts. This has been repeatedly highlighted by the Higher Courts.
 
 Subpoints:
 
-* Officers were cross-examined on the basis that their evidence was not the product of independent recollection.
-* Allegations of dishonesty were made.
+* Witnesses' evidence may not be independent
+* Allegations of dishonesty may arise
 
-References:
-Paragraph 15, page number not specified.
+Criticisms:
+
+* The current practice allows for potential bias and untruthfulness in statements
+* It is impossible to make allegations of dishonesty without collaboration
+
+Recommendations:
+
+* Officers should give their accounts as soon as practicable and without conferring with each other (ACPO guidance, Chapter 6)
+* Statements should include details of any conferring that has taken place (ACPO guidance, Chapter 6)
+
+**Concerns about Evidence**
+
+Concerns were raised about the reliability of evidence given by witnesses who had conferred before preparing their accounts.
+
+Subpoints:
+
+* Witnesses' evidence may not be truthful
+* Allegations of dishonesty may arise
+
+Criticisms:
+
+* The current practice allows for potential bias and untruthfulness in statements
+* It is impossible to make allegations of dishonesty without collaboration
+
+Recommendations:
+
+* Officers should give their accounts as soon as practicable and without conferring with each other (ACPO guidance, Chapter 6)
+* Statements should include details of any conferring that has taken place (ACPO guidance, Chapter 6)
+
+**Concerns about Procedural Obligation**
+
+Concerns were raised about the need for a fair, independent, and transparent process in investigations involving police discharge of firearms.
+
+Subpoints:
+
+* The state has an obligation to secure the best evidence
+* Investigations should comply with Article 2 of the ECHR
+
+Criticisms:
+
+* Current practices may not meet these obligations
+* There is a need for clear guidance on the preparation of accounts and statements
+
+Recommendations:
+
+* Clear guidance should be given to ensure that officers prepare early and independent accounts of police actions which result in fatal or other serious injuries (Sir Michael Wright)
+* Serious consideration should be given to audio- and video-recording of post-incident debriefings (Sir Michael Wright)
+
+Not found in the documents.

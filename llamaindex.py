@@ -73,11 +73,11 @@ questions = [
 ]
 
 analysis_questions = [
-    "How might using AI/NLP to summarize and interrogate inquest documents affect the speed and quality of legal analysis?",
-    "Can AI help detect inconsistencies or possible evidence tampering in inquest documents? What are its limitations?",
-    "How could the use of AI in inquests affect the balance of power between families, police, and legal teams?",
-    "What are the transparency and accountability challenges when using AI to process legal evidence?",
-    "In what other ways could AI be used in inquests beyond evidence review and summarization?",
+    "How might using AI/NLP to summarize and interrogate inquest documents affect the speed and quality of legal analysis? Provide specific examples of potential time savings and discuss how the quality of analysis might be impacted by AI's strengths and weaknesses in understanding legal nuances. Compare this to traditional manual methods.",
+    "Can AI help detect inconsistencies or possible evidence tampering in inquest documents? Detail specific methods or algorithms that could be used for detection, provide examples from the documents if possible, and critically evaluate the limitations of AI in this context, including risks of false positives or negatives.",
+    "How could the use of AI in inquests affect the balance of power between families, police, and legal teams? Analyze potential scenarios where AI might empower or disadvantage each party, discuss the role of data access and algorithmic bias, and suggest safeguards to ensure fairness.",
+    "What are the transparency and accountability challenges when using AI to process legal evidence? Explore specific issues such as the opacity of AI decision-making, the risk of biased training data, and the potential erosion of human oversight. Propose detailed measures to address these challenges.",
+    "In what other ways could AI be used in inquests beyond evidence review and summarization? Brainstorm innovative applications such as predictive analytics, real-time assistance during hearings, or public engagement tools, and critically assess the feasibility and ethical implications of each idea.",
 ]
 
 os.makedirs("llamaindex_outputs", exist_ok=True)
@@ -92,12 +92,15 @@ for i, question in enumerate(questions, 1):
     with open(f"llamaindex_outputs/question_{i}.txt", "w") as f:
         f.write(f"QUESTION: {question}\n\nRESPONSE:\n{response}")
 
-for i, question in enumerate(analysis_questions, 1):
-    full_prompt = analysis_instructions + question
-    try:
-        response = query_engine.query(full_prompt)
-    except Exception as e:
-        response = f"Error: {e}"
-    print(f"\nAnalysis Q{i}: {question}\nA: {response}\n")
-    with open(f"llamaindex_outputs/analysis_question_{i}.txt", "w") as f:
-        f.write(f"QUESTION: {question}\n\nRESPONSE:\n{response}")
+# To run only a specific analysis question (e.g., Q4 due to timeout), adjust the range or index as needed
+specific_analysis_question_index = 1  # Change this to run a different question (1-based index)
+i = specific_analysis_question_index
+question = analysis_questions[i - 1]  # Adjust for 0-based list indexing
+full_prompt = analysis_instructions + question
+try:
+    response = query_engine.query(full_prompt)
+except Exception as e:
+    response = f"Error: {e}"
+print(f"\nAnalysis Q{i}: {question}\nA: {response}\n")
+with open(f"llamaindex_outputs/analysis_question_{i}.txt", "w") as f:
+    f.write(f"QUESTION: {question}\n\nRESPONSE:\n{response}")

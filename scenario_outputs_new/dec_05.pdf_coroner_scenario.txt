@@ -1,0 +1,25 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation.
+
+RESPONSE:
+**Summary of Main Findings**
+
+The coroner's decision-making is guided by the legal position in this case, which is considered "absolutely clear." The coroner emphasizes the importance of sticking to the questionnaire and not considering other factors not listed.
+
+**Key Evidence**
+
+* The inquisition and questionnaire have been carefully formulated with the assistance of all interested persons, including the family's representatives.
+* The questions in the inquisition and questionnaire have been designed to ensure compliance with legal rules governing inquests.
+* Some family members left court wearing T-shirts with messages on them, but this is considered "wrong" and should be ignored.
+
+**Coroner's Guidance**
+
+The coroner advises the jury to focus only on the evidence presented in court and make decisions based on that evidence. The coroner emphasizes the importance of impartiality and dispassionately considering all the evidence.
+
+**Ambiguities or Gaps in Evidence**
+
+* None mentioned explicitly; however, the coroner's statement that the legal position is "absolutely clear" implies a lack of ambiguity in this regard.
+* The presence of family members wearing T-shirts with messages on them could be seen as an attempt to influence the jury and raises questions about the potential impact on the decision-making process.
+
+**Areas for Further Investigation**
+
+* None explicitly mentioned, but consideration of the potential influence of external factors (e.g., the T-shirts) might be warranted.

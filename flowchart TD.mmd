@@ -1,0 +1,21 @@
+flowchart TD
+    A[Document Acquisition] -->|scrape_stockwell.py| B[Downloaded PDFs<br/>downloads/]
+    B -->|convertdocstoplaintext.py| C[Plain Text Files<br/>plain_texts/]
+    C -->|llamaindex.py| D[Vector Index Creation<br/>LlamaIndex + Ollama]
+    D -->|Querying with Prompts| E[Analysis Outputs<br/>llamaindex_outputs/]
+    E -->|Specific Questions| F[Evidence Issues<br/>question_1.txt to question_3.txt]
+    E -->|Analysis Questions| G[AI Implications<br/>analysis_question_1.txt to analysis_question_5.txt]
+    subgraph Scriptss
+        A1[scrape_stockwell.py]
+        A2[convertdocstoplaintext.py]
+        A3[llamaindex.py]
+        A4[Other Scripts<br/>e.g., querydoc.py, llamascript.py]
+    end
+    subgraph Data Storage
+        B1[downloads/]s
+        C1[plain_texts/]
+        E1[llamaindex_outputs/]
+        E2[scenario_outputs/]
+    end
+```
+
