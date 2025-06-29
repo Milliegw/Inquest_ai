@@ -1,0 +1,24 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation.
+
+RESPONSE:
+**Main Findings:**
+
+1. **Coroner's Responsibilities:** The coroner (Sir Michael Wright) is responsible for directing the jury on the law and summarizing the evidence.
+
+**Key Evidence:**
+
+2. **Witness Statements:** The witness statements are not available for review, but a complete transcript of the 36 days of evidence will be provided in the room for deliberation.
+
+3. **Reliability of Witnesses:** It is left to the jury's discretion to determine which witnesses they consider honest, accurate, and reliable.
+
+4. **Relevance of Evidence:** The coroner emphasizes that it is up to the jury to decide what evidence is relevant and significant, and not all evidence will be equal in importance.
+
+**Ambiguities and Gaps:**
+
+5. **Unreferenced Evidence:** There may be gaps in evidence that were not referred to during the summing-up process. The coroner encourages the jury to consider all the evidence presented over the 36 days of testimony, even if it was not explicitly mentioned during the summary.
+
+**Recommendations for Further Investigation:**
+
+6. **Review Transcript:** The coroner suggests reviewing the complete transcript of the 36 days of evidence in preparation for deliberation and decision-making.
+
+By following these guidelines, the coroner's office aims to provide a comprehensive summary of the key findings and relevant evidence while also acknowledging the importance of the jury's role in evaluating the facts and making an informed decision.

@@ -1,0 +1,33 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation.
+
+RESPONSE:
+**Main Findings**
+
+The coroner's main findings relevant to their decision-making are summarized below:
+
+**Factual Questions Left to Jury**
+
+* The coroner decided not to leave an "unlawful killing" verdict on any basis (para 1).
+* A "lawful killing" and "open verdict" were left for the jury (para 1).
+
+**Revised Verdict Questionnaire**
+
+* The coroner prepared a revised Verdict Questionnaire after considering submissions from interested persons (para 5).
+* The revised questionnaire was sent to all interested persons via email on December 1, 2008 (para 5).
+
+**Judicial Review Claim and Stay of Inquest**
+
+* The de Menezes family issued a judicial review claim and application for stay of the inquest on December 2, 2008 (para 5).
+* The Administrative Court refused permission to seek judicial review of the coroner's decision not to leave an open question (para 6).
+
+**Key Evidence**
+
+There is no direct reference or quote from the document that summarizes key evidence. However, it appears that interested persons made oral submissions on November 20-21, and representatives of the de Menezes family and the Command Team provided draft questionnaires (para 2).
+
+**Ambiguities and Gaps in Evidence**
+
+None identified.
+
+**Areas for Further Investigation**
+
+Not specified.

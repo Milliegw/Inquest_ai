@@ -1,30 +1,61 @@
 QUESTION: For each theme above, expand with all subpoints, criticisms, and recommendations, and include any relevant paragraph or page references if available.
 
 RESPONSE:
-**Theme 1:**
+**Concerns about Collaboration**
 
-* The practice of witnesses conferring in the preparation of their accounts has been a concern for the Higher Courts.
-* This is evident from recent years' repeated expressions of concern about this practice.
-* The resulting investigation should comply with the procedural obligation inherent in Article 2 of the ECHR, which requires the state to secure the best evidence by a fair, independent, and transparent process. (Page reference: Not applicable)
+Concerns were expressed about the practice of witnesses conferring in the preparation of their accounts. This has been repeatedly highlighted by the Higher Courts.
 
-**Theme 2:**
+Subpoints:
 
-* The ACPO guidance recommends that officers should ordinarily give their accounts as soon as practicable and without conferring with each other.
-* Statements should include details of any conferring which has taken place.
-* This is to ensure the best evidence by a fair, independent, and transparent process. (Page reference: 44)
+* Witnesses' evidence may not be independent
+* Allegations of dishonesty may arise
 
-**Theme 3:**
+Criticisms:
 
-* Allegations of dishonesty were made, which would have been impossible to make in the absence of collaboration.
-* The reliability of witnesses' accounts was questioned due to the practice of conferring in their preparation.
-* This has led to concerns about securing the best evidence by a fair, independent, and transparent process. (Page reference: 15)
+* The current practice allows for potential bias and untruthfulness in statements
+* It is impossible to make allegations of dishonesty without collaboration
 
-**Theme 4:**
+Recommendations:
 
-* The MPA issued a Report on December 4th, 2008, formally recognising that the ACPO guidance would be followed in fatal shooting investigations.
-* The report mentioned the MPS's commissioning of a Gold group under DAC Hitchcock to develop further guidance and the Directorate of Professional Standards' development of a new post-incident procedure. (Page reference: 46)
+* Officers should give their accounts as soon as practicable and without conferring with each other (ACPO guidance, Chapter 6)
+* Statements should include details of any conferring that has taken place (ACPO guidance, Chapter 6)
 
-**Theme 5:**
+**Concerns about Evidence**
 
-* Recommendations were made for clear guidance to be given to ensure that officers prepare early and independent accounts of any police actions which result in fatal or other serious injuries.
-* Serious consideration was given to audio- and video-recording of post-incident debriefings. (Page reference: 46)
+Concerns were raised about the reliability of evidence given by witnesses who had conferred before preparing their accounts.
+
+Subpoints:
+
+* Witnesses' evidence may not be truthful
+* Allegations of dishonesty may arise
+
+Criticisms:
+
+* The current practice allows for potential bias and untruthfulness in statements
+* It is impossible to make allegations of dishonesty without collaboration
+
+Recommendations:
+
+* Officers should give their accounts as soon as practicable and without conferring with each other (ACPO guidance, Chapter 6)
+* Statements should include details of any conferring that has taken place (ACPO guidance, Chapter 6)
+
+**Concerns about Procedural Obligation**
+
+Concerns were raised about the need for a fair, independent, and transparent process in investigations involving police discharge of firearms.
+
+Subpoints:
+
+* The state has an obligation to secure the best evidence
+* Investigations should comply with Article 2 of the ECHR
+
+Criticisms:
+
+* Current practices may not meet these obligations
+* There is a need for clear guidance on the preparation of accounts and statements
+
+Recommendations:
+
+* Clear guidance should be given to ensure that officers prepare early and independent accounts of police actions which result in fatal or other serious injuries (Sir Michael Wright)
+* Serious consideration should be given to audio- and video-recording of post-incident debriefings (Sir Michael Wright)
+
+Not found in the documents.

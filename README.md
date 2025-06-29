@@ -25,15 +25,19 @@ This section is for users new to software development who want to use this repos
 ### Step 1: Clone the Repository
 
 1. **Install Git**: If not already on your computer, download and install Git from [https://git-scm.com/downloads](https://git-scm.com/downloads). Git is a tool to download and manage code repositories.
+
 2. **Open Terminal or Command Prompt**:
    - On Windows, search for "Command Prompt" or "PowerShell" in the Start menu.
    - On macOS, search for "Terminal" in Spotlight or find it in Applications > Utilities.
    - On Linux, open your preferred terminal application.
+
 3. **Clone the Repository**: In the terminal, type the following command and press Enter to download this project:
    ```
    git clone https://github.com/[your-username]/Inquest.git
    ```
    Replace `[your-username]` with the actual username or organization hosting this repository if it's hosted on GitHub. If you have the repository locally or on another platform, adjust the URL accordingly.
+
+
 4. **Navigate to the Project Folder**: After cloning, move into the project directory by typing:
    ```
    cd Inquest
@@ -50,12 +54,14 @@ This section is for users new to software development who want to use this repos
    python3 --version
    ```
    You should see a version number like `3.10.x` or higher.
+
 2. **Install Ollama**: Ollama is a tool to run AI models locally. Download and install it from [https://ollama.com/](https://ollama.com/). After installation, open a new terminal window and run:
    ```
    ollama pull llama3
    ollama pull nomic-embed-text
    ```
    This downloads the AI models needed for analysis. It may take some time depending on your internet speed.
+
 3. **Install Python Dependencies**: In the terminal, within the project directory, install the required Python packages by running:
    ```
    pip install ollama llama-index-core llama-index-llms-ollama llama-index-embeddings-ollama

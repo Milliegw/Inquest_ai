@@ -26,12 +26,13 @@ def ask_llama(question, context):
 
 input_folder = "plain_texts"
 os.makedirs("scenario_outputs", exist_ok=True)
+os.makedirs("scenario_outputs_new", exist_ok=True)
 
 prompts = [
     # (role, scenario prompt)
-    ("family", "If you were representing the family, what evidence would you focus on to challenge the police narrative?"),
-    ("coroner", "Summarize the main findings relevant to the coroner's decision-making."),
-    ("police", "What evidence supports the police's version of events?"),
+    ("family", "If you were representing the family, what evidence would you focus on to challenge the police narrative? Provide a detailed analysis of each piece of evidence, identifying potential inconsistencies or contradictions with specific references to the document content. Structure your response with clear headings for each evidence point, include hypothetical examples if direct quotes are unavailable, and conclude with actionable next steps for legal representatives."),
+    ("coroner", "Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation."),
+    ("police", "What evidence supports the police's version of events? Provide an in-depth analysis of each supporting piece of evidence, referencing specific document content or quotes where possible. Format the response with clear headings and sub-points for each evidence item, address potential counterarguments or inconsistencies, and conclude with recommendations for strengthening the police narrative or addressing weaknesses."),
     # Add more scenarios as needed
 ]
 
@@ -63,7 +64,7 @@ for filename in os.listdir(input_folder):
                 print(f"Querying {filename} for scenario: {role}")
                 full_prompt = instructions + prompt
                 answer = ask_llama(full_prompt, context)
-                output_path = f"scenario_outputs/{filename.replace('.txt','')}_{role}_scenario.txt"
+                output_path = f"scenario_outputs_new/{filename.replace('.txt','')}_{role}_scenario.txt"
                 with open(output_path, "w") as out:
                     out.write(f"PROMPT: {prompt}\n\nRESPONSE:\n{answer}")
                 print(f"Saved output to {output_path}")

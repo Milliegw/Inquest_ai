@@ -1,0 +1,34 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation.
+
+RESPONSE:
+**Coroner's Instructions:**
+
+The coroner's instructions are provided through Sir Michael Wright's statements at 10.07 am and 3.06 pm.
+
+**Key Evidence:**
+
+* The jury has been re-sworn to continue deliberations (10.07 am).
+* The jury is advised not to conduct private investigations, check with anyone else, or discuss the case with others (3.06 pm).
+
+**Coroner's Directions:**
+
+Sir Michael Wright directs the jury to:
+1. Retire and continue deliberations (10.07 am).
+2. Not investigate the case privately, consult with others, or discuss it with people outside the court (3.06 pm).
+
+**Coroner's Arrangements:**
+
+The coroner has arranged for alternative accommodations at Southwark Crown Court if necessary, should the jury not reach verdicts by Friday (12th) (3.06 pm).
+
+**Ambiguities and Gaps in Evidence:**
+
+* There are no specific findings or key evidence presented during these instructions.
+* The coroner's decision-making is not guided by any new or relevant information.
+
+**Suggestions for Further Investigation:**
+
+To support the coroner's decision-making, it would be beneficial to gather more information on:
+1. The jury's deliberations and progress thus far.
+2. Any additional evidence that may have been presented or obtained since the last instruction.
+
+Note: As there are no findings or key evidence presented in these instructions, this summary focuses on summarizing the coroner's directions and arrangements, while highlighting the lack of specific information relevant to the decision-making process.

@@ -1,0 +1,21 @@
+PROMPT: Summarize the main findings relevant to the coroner's decision-making. Include detailed explanations of key evidence, direct references or quotes from the document to support each finding, and organize the response with structured sections for clarity. Highlight any ambiguities or gaps in evidence that could impact the decision-making process and suggest areas for further investigation.
+
+RESPONSE:
+**Main Findings:**
+
+1. **Jury Instructions:** The coroner, Sir Michael Wright, has given instructions to the jury regarding majority verdicts. He stated that the goal is to reach unanimous decisions if possible, but if not, the jury can accept a decision upon which at least 8 of them are agreed (para 16-18).
+2. **No Pressure:** The coroner emphasized that there is no pressure on the jury and they should take as long as needed to arrive at agreements (para 17).
+
+**Key Evidence:**
+
+* None specific to the case, but general instructions provided to the jury.
+
+**Ambiguities or Gaps in Evidence:**
+
+* No further information is provided regarding the substance of the case, making it difficult to determine the relevance of these instructions to the coroner's decision-making.
+* The lack of specific evidence related to the case may impact the coroner's ability to make an informed decision.
+
+**Suggestions for Further Investigation:**
+
+* Reviewing any additional evidence or statements presented during the trial would provide a more comprehensive understanding of the case and allow for more informed decision-making by the coroner.
+* Further clarification on the jury's deliberations and any potential issues they may be facing could also aid in making an accurate and well-supported decision.
