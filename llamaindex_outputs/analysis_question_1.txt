@@ -1,4 +1,0 @@
-QUESTION: How might using AI/NLP to summarize and interrogate inquest documents affect the speed and quality of legal analysis? Provide specific examples of potential time savings and discuss how the quality of analysis might be impacted by AI's strengths and weaknesses in understanding legal nuances. Compare this to traditional manual methods.
-
-RESPONSE:
-Error: timed out
