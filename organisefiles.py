@@ -1,6 +1,7 @@
 import os
 import shutil
 
+# Move all .pdf.txt files from the downloads folder to the plain_texts folder
 src = "downloads"
 dst = "plain_texts"
 os.makedirs(dst, exist_ok=True)

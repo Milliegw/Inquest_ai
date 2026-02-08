@@ -1,5 +1,17 @@
 # Inquest Document Analysis Pipeline
 
+## Overview
+
+This project assists in analyzing legal inquest documents (e.g., Jean Charles de Menezes inquest) using AI. It leverages Retrieval-Augmented Generation (RAG) with a local Language Model (Llama 3 via Ollama) to process, summarize, and interrogate large volumes of text data.
+
+**For non-technical users:**  
+Think of this as a digital assistant that reads, summarizes, and highlights key issues in legal documents—such as missing evidence or inconsistent statements—making complex analysis faster and more accessible.
+
+**For technical users:**  
+The pipeline automates scraping, conversion, indexing, and querying of inquest documents using LlamaIndex and Ollama, supporting both per-document and corpus-level analysis.
+
+---
+
 ## Overview for Non-Technical Users
 
 This project is designed to assist in analyzing documents from legal inquests, such as the Jean Charles de Menezes inquest, using Artificial Intelligence (AI). Specifically, it employs a technology called Retrieval-Augmented Generation (RAG) with a local Language Model (Llama 3 via Ollama) to process and interpret large volumes of text data from inquest records. 
@@ -8,69 +20,51 @@ For someone like a lawyer without a software engineering background, think of th
 
 A key feature of this project is the ability to automatically acquire documents from specific online sources related to the Jean Charles de Menezes inquest. It includes tools to scrape or download these documents directly from designated websites, convert them into a readable format, and then analyze them to answer specific questions about the inquest or the role of AI in such processes. While the system automates much of the analysis, human oversight is still crucial to validate findings and ensure they are used appropriately in a legal context.
 
+
+
 ## Purpose for Technical Users
 
 This project provides tools to analyze inquest documents using local Large Language Models (LLMs, specifically Llama 3 via Ollama) and Retrieval-Augmented Generation (RAG). It automates the process of scraping documents from specific online sources (related to the Jean Charles de Menezes inquest), extracting text from these documents, building a searchable index, and querying that index to answer detailed questions about evidence and the implications of AI in legal analysis.
 
-## Getting Started: For Beginners
+## Retrieval-Augmented Generation (RAG) Process
 
-This section is for users new to software development who want to use this repository. Follow these steps to clone, set up, and run the project on your computer.
+1. **Retrieval**: LlamaIndex is used to build a semantic index of documents and retrieve the most relevant chunks in response to a query.
+2. **Augmentation**: The retrieved text is passed as context to a language model (Llama 3 via Ollama).
+3. **Generation**: The LLM generates answers or summaries based on both the retrieved context and its own reasoning abilities. This allows for more accurate and contextually relevant responses, especially when dealing with large volumes of text where specific information needs to be extracted and synthesized.
+
+## Setup Instructions
 
 ### Prerequisites
 
-- **Computer Skills**: Basic familiarity with using a command line or terminal (instructions provided below).
-- **Hardware**: A computer with sufficient processing power and memory (at least 8GB RAM recommended) to run AI models locally.
-- **Software**: You will need to install some free tools as described below.
+- Python 3.10+
+- Ollama (with `llama3` and `nomic-embed-text` models)
+- At least 8GB RAM recommended for running Llama 3 locally, more for larger models or multiple queries.
 
-### Step 1: Clone the Repository
+### Setup
 
-1. **Install Git**: If not already on your computer, download and install Git from [https://git-scm.com/downloads](https://git-scm.com/downloads). Git is a tool to download and manage code repositories.
-
-2. **Open Terminal or Command Prompt**:
-   - On Windows, search for "Command Prompt" or "PowerShell" in the Start menu.
-   - On macOS, search for "Terminal" in Spotlight or find it in Applications > Utilities.
-   - On Linux, open your preferred terminal application.
-
-3. **Clone the Repository**: In the terminal, type the following command and press Enter to download this project:
-   ```
+1. **Clone the repository:**
+   ```bash
    git clone https://github.com/[your-username]/Inquest.git
-   ```
-   Replace `[your-username]` with the actual username or organization hosting this repository if it's hosted on GitHub. If you have the repository locally or on another platform, adjust the URL accordingly.
-
-
-4. **Navigate to the Project Folder**: After cloning, move into the project directory by typing:
-   ```
    cd Inquest
    ```
 
-### Step 2: Set Up the Environment
-
-1. **Install Python**: Ensure you have Python 3.10 or higher installed. Download it from [https://www.python.org/downloads/](https://www.python.org/downloads/) if needed. Verify the installation by typing in the terminal:
-   ```
-   python --version
-   ```
-   or
-   ```
-   python3 --version
-   ```
-   You should see a version number like `3.10.x` or higher.
-
-2. **Install Ollama**: Ollama is a tool to run AI models locally. Download and install it from [https://ollama.com/](https://ollama.com/). After installation, open a new terminal window and run:
-   ```
-   ollama pull llama3
-   ollama pull nomic-embed-text
-   ```
-   This downloads the AI models needed for analysis. It may take some time depending on your internet speed.
-
-3. **Install Python Dependencies**: In the terminal, within the project directory, install the required Python packages by running:
-   ```
+2. **Install dependencies:**
+   ```bash
    pip install ollama llama-index-core llama-index-llms-ollama llama-index-embeddings-ollama
    ```
-   or if `pip` doesn't work, try:
-   ```
-   pip3 install ollama llama-index-core llama-index-llms-ollama llama-index-embeddings-ollama
-   ```
-   This installs the libraries needed to interact with the AI models and process documents.
+
+3. **Install and start Ollama:**
+   - Download from [https://ollama.com/](https://ollama.com/)
+   - Pull models:
+     ```bash
+     ollama pull llama3
+     ollama pull nomic-embed-text
+     ```
+   - Start Ollama:
+     ```bash
+     ollama serve
+     ```
+
 
 ### Step 3: Prepare Your Data
 
@@ -84,21 +78,34 @@ This section is for users new to software development who want to use this repos
   python organisefiles.py
   ```
 
-## Usage
+---
 
-### 1. Organize Files
+## Workflow
 
-Run:
-```bash
-python organisefiles.py
-```
-This moves all `.txt` files from `downloads` to `plain_texts`, preparing them for analysis.
+### 1. Acquire and Prepare Documents
+
+- **Scrape documents:**  
+  ```bash
+  python scrape_stockwell.py
+  ```
+- **Convert PDFs to text:**  
+  ```bash
+  python convertdocstoplaintext.py
+  ```
+- **Organize files:**  
+  ```bash
+  python organisefiles.py
+  ```
+  This moves `.txt` files to `plain_texts`.
 
 ---
 
 ### 2. Single Document, Single Prompt
 
 Edit `llamascript.py` to set your prompt and document, then run:
+```bash
+python llamascript.py
+```
 ```bash
 python llamascript.py
 ```
@@ -137,6 +144,67 @@ This will build an index over all documents in `plain_texts` and answer your que
 - Reflect on the results and document your methodology and findings. Consider both the factual insights (e.g., issues with evidence) and ethical implications (e.g., how AI might affect fairness or transparency in legal processes).
 
 ---
+# Inquest Document Analysis Pipeline
+
+This project provides tools to analyze inquest documents using local LLMs (Llama 3 via Ollama) and retrieval-augmented generation (RAG).
+
+## Setup
+
+1. **Install dependencies**  
+   - Python 3.10+  
+   - [Ollama](https://ollama.com/) (install and pull `llama3` and `nomic-embed-text` models)
+   - Python packages:
+     ```
+     pip install ollama llama-index-core llama-index-llms-ollama llama-index-embeddings-ollama
+     ```
+
+2. **Prepare your data**  
+   - Place all extracted `.txt` files in the `downloads` folder.
+
+## Usage
+
+### 1. Organize Files
+
+Run:
+```bash
+python organisefiles.py
+```
+This moves all `.txt` files from `downloads` to `plain_texts`.
+
+---
+
+### 2. Single Document, Single Prompt
+
+Edit `llamascript.py` to set your prompt and document, then run:
+```bash
+python llamascript.py
+```
+This will process one document and print/save the result.
+
+---
+
+### 3. Batch Scenario Analysis (Per Document)
+
+Edit `batch_llamascript.py` to set your scenario prompts.  
+Run:
+```bash
+python batch_llamascript.py
+```
+This will process **all documents** in `plain_texts` with each scenario prompt and save results in `scenario_outputs`.
+
+---
+
+### 4. Corpus-Level (Holistic) Analysis
+
+Edit `llamaindex.py` to set your holistic/cross-document question(s).  
+Run:
+```bash
+python llamaindex.py
+```
+This will build an index over all documents and answer your question(s) using the entire corpus.
+
+---
+
 
 ## Adapting to Other Projects
 

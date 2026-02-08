@@ -5,30 +5,21 @@ Here is the extracted list of instances where police evidence, statements, or pr
 
 **Conferring on Accounts**
 
-• The IPCC raised concerns that the difference in treatment between police and civilian witnesses to this incident were not acceptable or justifiable. Members of the public were expected to be interviewed and make statements soon after witnessing a traumatic incident without being able to confer with other witnesses and provide a joint account, whereas police officers involved were allowed to return to their base, refresh themselves, and confer. (MPA Stockwell Scrutiny Report, paragraph 11)
-• The IPCC expressed concerns regarding the post-incident procedures put in place after other incidents where police firearms are discharged, citing that officers involved in the incident wrote up their notes together, which makes those accounts less credible. (MPA Stockwell Scrutiny Report, paragraphs 12 and 13)
+* Allegations of dishonesty were made which would have been impossible to make in the absence of collaboration. (DeMenezes Rule 43 Report open.pdf.txt)
+* The new guidance recommends that, in investigations concerning police discharge of firearms, officers should ordinarily give their accounts as soon as practicable and without conferring with each other. It also recommends that statements include details of any conferring which has taken place. See paragraphs 4.1 -4.8. (DeMenezes Rule 43 Report open.pdf.txt)
+* Recent years have seen concern expressed by the Higher Courts about the practice of witnesses conferring in the preparation of their accounts. (DeMenezes Rule 43 Report open.pdf.txt)
 
-**Surveillance Logs**
+**Statement Replication**
 
-• None found.
+* Whole sections in some statements directly replicated sections in other statements. (DeMenezes Rule 43 Report open.pdf.txt)
 
-**Communications**
+**Expert Witness Reliability**
 
-• The IPCC raised concerns about the practice of witnesses conferring in the preparation of their accounts. (DeMenezes Rule 43 Report, paragraph 45)
-• Allegations were made that would have been impossible to make in the absence of collaboration. (DeMenezes Rule 43 Report, paragraph 15)
+* You may take it on its face value. [referring to uncontroversial expert evidence] (plain_texts/dec_02.pdf.txt)
+* It doesn't necessarily follow that because you conclude that a witness has lied on one specific point that the whole of a witness's evidence can be regarded as demonstrably unreliable. (plain_texts/dec_02.pdf.txt)
 
-**Evidence Handling**
+**Lying or Misleading**
 
-• The IPCC expressed concerns about the post-incident procedures put in place after other incidents where police firearms are discharged, citing that officers involved in the incident wrote up their notes together, which makes those accounts less credible. (MPA Stockwell Scrutiny Report, paragraphs 12 and 13)
-• The IPCC recommended reviewing existing guidance and practice to ensure that appropriate and robust mechanisms exist to secure an accurate and auditable record of "hot" and team/group debriefs. (MPA Stockwell Scrutiny Report, paragraph 12)
+* Lies. More than one witness in the course of this inquest has been accused of lying. How should you approach this topic? ... If you think it is possible that it is the latter, honest mistake, rather than the former, a deliberate lie... (plain_texts/dec_02.pdf.txt)
 
-**Expert Witnesses**
-
-• None found.
-
-**Other**
-
-• The MPA's report formally recognised that the ACPO guidance would be followed in fatal shooting investigations, stating that there is an additional imperative to ensure a fair, independent, and transparent process. (DeMenezes Rule 43 Report, paragraphs 44-46)
-• Sir Michael Wright recommended giving clear guidance to ensure that officers prepare early and independent accounts of any police actions which result in fatal or other serious injuries. He also suggested considering audio- and video-recording of post-incident debriefings. (DeMenezes Rule 43 Report, paragraph 6)
-
-Note: These instances are based solely on the provided documents and do not include any external information or speculation.
+Note: The provided documents do not contain direct allegations or questioning of police evidence as "inaccurate" or "incomplete." However, concerns about conferring on accounts, statement replication, and expert witness reliability are raised in the context.

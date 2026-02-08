@@ -1,6 +1,7 @@
 import pdfplumber
 import os
 
+# Convert all PDFs in the downloads folder to plain text and save them as .txt files
 pdf_folder = "downloads"
 for filename in os.listdir(pdf_folder):
     if filename.lower().endswith(".pdf"):

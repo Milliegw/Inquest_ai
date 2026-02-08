@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI in Inquests - Introduction Tables</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            line-height: 1.6;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 30px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 40px;
+            font-size: 2.5em;
+            font-weight: 300;
+        }
+        
+        .table-section {
+            margin-bottom: 50px;
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+            border-left: 5px solid #3498db;
+        }
+        
+        .table-title {
+            font-size: 1.5em;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        
+        th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 12px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.95em;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e8e8e8;
+            vertical-align: top;
+        }
+        
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        
+        tr:hover {
+            background-color: #e3f2fd;
+            transition: background-color 0.3s ease;
+        }
+        
+        .ai-type {
+            font-weight: 600;
+            color: #2c3e50;
+        }
+        
+        .benefit {
+            color: #27ae60;
+            font-weight: 500;
+        }
+        
+        .limitation {
+            color: #e74c3c;
+            font-weight: 500;
+        }
+        
+        .inquest-type {
+            background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.85em;
+            font-weight: 500;
+            display: inline-block;
+            margin-bottom: 5px;
+        }
+        
+        .ai-application {
+            background: #e3f2fd;
+            padding: 4px 8px;
+            border-radius: 5px;
+            margin: 2px;
+            display: inline-block;
+            font-size: 0.85em;
+            border-left: 3px solid #2196f3;
+        }
+        
+        .complexity-high {
+            background: #ffebee;
+            border-left-color: #f44336;
+        }
+        
+        .complexity-medium {
+            background: #fff3e0;
+            border-left-color: #ff9800;
+        }
+        
+        .complexity-low {
+            background: #e8f5e8;
+            border-left-color: #4caf50;
+        }
+        
+        .note {
+            background: #f0f7ff;
+            border: 1px solid #2196f3;
+            border-radius: 8px;
+            padding: 15px;
+            margin: 20px 0;
+            font-style: italic;
+            color: #1976d2;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+            
+            table {
+                font-size: 0.9em;
+            }
+            
+            th, td {
+                padding: 8px 6px;
+            }
+            
+            .table-title {
+                font-size: 1.3em;
+            }
+        }
+        
+        .icon {
+            width: 16px;
+            height: 16px;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        
+        .check { color: #27ae60; }
+        .cross { color: #e74c3c; }
+        .warning { color: #f39c12; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI in Inquests - Introduction Tables</h1>
+        
+        <!-- Table 1: AI Tools Comparison -->
+        <div class="table-section">
+            <div class="table-title">1. AI Tools Comparison for Inquest Applications</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>AI Technology</th>
+                        <th>Specific Applications</th>
+                        <th>Key Benefits</th>
+                        <th>Primary Limitations</th>
+                        <th>Implementation Complexity</th>
+                        <th>Evidence Types</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="ai-type">Natural Language Processing (NLP)</td>
+                        <td>
+                            <div class="ai-application">Document summarisation</div>
+                            <div class="ai-application">Witness statement analysis</div>
+                            <div class="ai-application">Communication pattern detection</div>
+                            <div class="ai-application">Inconsistency identification</div>
+                            <div class="ai-application">Legal precedent search</div>
+                        </td>
+                        <td class="benefit">
+                            • Rapid processing of large text volumes<br>
+                            • Consistent analysis criteria<br>
+                            • Pattern recognition across cases<br>
+                            • Multilingual capability
+                        </td>
+                        <td class="limitation">
+                            • Context misinterpretation<br>
+                            • Hallucination risks<br>
+                            • Bias in training data<br>
+                            • Limited understanding of legal nuance
+                        </td>
+                        <td><span class="ai-application complexity-medium">Medium</span></td>
+                        <td>
+                            • Medical reports<br>
+                            • Witness statements<br>
+                            • Police logs<br>
+                            • Communications<br>
+                            • Legal documents
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="ai-type">Computer Vision</td>
+                        <td>
+                            <div class="ai-application">CCTV analysis</div>
+                            <div class="ai-application">Facial recognition</div>
+                            <div class="ai-application">Digital autopsy imaging</div>
+                            <div class="ai-application">Scene reconstruction</div>
+                            <div class="ai-application">Object/event detection</div>
+                        </td>
+                        <td class="benefit">
+                            • Automated video scanning<br>
+                            • 24/7 processing capability<br>
+                            • Objective visual analysis<br>
+                            • Enhanced image quality
+                        </td>
+                        <td class="limitation">
+                            • False positive/negative rates<br>
+                            • Privacy concerns<br>
+                            • Poor quality footage issues<br>
+                            • Chain of custody complexity
+                        </td>
+                        <td><span class="ai-application complexity-high">High</span></td>
+                        <td>
+                            • CCTV footage<br>
+                            • Body camera recordings<br>
+                            • Medical scans<br>
+                            • Photographs<br>
+                            • Digital images
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="ai-type">Predictive Analytics</td>
+                        <td>
+                            <div class="ai-application">Pattern recognition</div>
+                            <div class="ai-application">Risk assessment</div>
+                            <div class="ai-application">Resource forecasting</div>
+                            <div class="ai-application">Trend analysis</div>
+                            <div class="ai-application">Prevention of Future Deaths insights</div>
+                        </td>
+                        <td class="benefit">
+                            • Systemic issue identification<br>
+                            • Proactive risk management<br>
+                            • Resource optimization<br>
+                            • Evidence-based policy recommendations
+                        </td>
+                        <td class="limitation">
+                            • Requires large datasets<br>
+                            • Historical bias amplification<br>
+                            • Correlation vs causation confusion<br>
+                            • Ethical prediction concerns
+                        </td>
+                        <td><span class="ai-application complexity-high">High</span></td>
+                        <td>
+                            • Historical inquest data<br>
+                            • Statistical records<br>
+                            • Demographic information<br>
+                            • Systemic data<br>
+                            • Comparative case studies
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="ai-type">Digital Forensics AI</td>
+                        <td>
+                            <div class="ai-application">Mobile phone data extraction</div>
+                            <div class="ai-application">Social media analysis</div>
+                            <div class="ai-application">Digital timeline reconstruction</div>
+                            <div class="ai-application">Metadata analysis</div>
+                            <div class="ai-application">Encrypted data recovery</div>
+                        </td>
+                        <td class="benefit">
+                            • Comprehensive digital evidence review<br>
+                            • Automated data categorization<br>
+                            • Timeline reconstruction<br>
+                            • Hidden pattern discovery
+                        </td>
+                        <td class="limitation">
+                            • Privacy law compliance issues<br>
+                            • Technical complexity<br>
+                            • Chain of custody requirements<br>
+                            • Rapid technology evolution
+                        </td>
+                        <td><span class="ai-application complexity-high">High</span></td>
+                        <td>
+                            • Mobile devices<br>
+                            • Social media<br>
+                            • Computer files<br>
+                            • Cloud data<br>
+                            • Digital communications
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="note">
+                <strong>Note:</strong> All AI applications require human oversight and cannot replace human judgment in judicial decision-making, as per Digital Forensics Council recommendations.
+            </div>
+        </div>
+        
+        <!-- Table 2: Inquest Types and AI Applications -->
+        <div class="table-section">
+            <div class="table-title">2. Inquest Types and Relevant AI Applications</div>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Inquest Type</th>
+                        <th>Common Evidence Types</th>
+                        <th>Primary AI Applications</th>
+                        <th>Key Stakeholders</th>
+                        <th>AI Benefits</th>
+                        <th>Special Considerations</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <div class="inquest-type">Police Shootings</div>
+                        </td>
+                        <td>
+                            • Body camera footage<br>
+                            • CCTV recordings<br>
+                            • Radio communications<br>
+                            • Ballistics reports<br>
+                            • Witness statements
+                        </td>
+                        <td>
+                            <div class="ai-application">Video analysis for use of force detection</div>
+                            <div class="ai-application">Communication analysis for protocol compliance</div>
+                            <div class="ai-application">Timeline reconstruction</div>
+                            <div class="ai-application">Pattern analysis across similar incidents</div>
+                        </td>
+                        <td>
+                            • Bereaved families<br>
+                            • Police force<br>
+                            • IOPC<br>
+                            • Legal representatives<br>
+                            • Public interest groups
+                        </td>
+                        <td>
+                            • Objective video analysis<br>
+                            • Rapid evidence processing<br>
+                            • Systemic pattern identification<br>
+                            • Reduced human bias in initial review
+                        </td>
+                        <td>
+                            • High public scrutiny<br>
+                            • Article 2 ECHR obligations<br>
+                            • Media attention<br>
+                            • Complex legal frameworks
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="inquest-type">Deaths in Custody</div>
+                        </td>
+                        <td>
+                            • Custody suite CCTV<br>
+                            • Medical records<br>
+                            • Custody logs<br>
+                            • Staff statements<br>
+                            • Risk assessments
+                        </td>
+                        <td>
+                            <div class="ai-application">Medical record analysis</div>
+                            <div class="ai-application">CCTV automated monitoring</div>
+                            <div class="ai-application">Risk factor analysis</div>
+                            <div class="ai-application">Policy compliance checking</div>
+                        </td>
+                        <td>
+                            • Families<br>
+                            • Custody providers<br>
+                            • Healthcare services<br>
+                            • Prison/police authorities<br>
+                            • Oversight bodies
+                        </td>
+                        <td>
+                            • Systematic care review<br>
+                            • Risk pattern identification<br>
+                            • Policy gap analysis<br>
+                            • Preventive insights
+                        </td>
+                        <td>
+                            • Vulnerable population focus<br>
+                            • Duty of care obligations<br>
+                            • Mental health considerations<br>
+                            • Systemic failures potential
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="inquest-type">Immigration Removal Deaths</div>
+                        </td>
+                        <td>
+                            • Immigration records<br>
+                            • Medical assessments<br>
+                            • Restraint documentation<br>
+                            • Transport logs<br>
+                            • Communications with authorities
+                        </td>
+                        <td>
+                            <div class="ai-application">Document analysis for policy compliance</div>
+                            <div class="ai-application">Medical risk assessment review</div>
+                            <div class="ai-application">Communication pattern analysis</div>
+                            <div class="ai-application">Comparative case analysis</div>
+                        </td>
+                        <td>
+                            • Families/communities<br>
+                            • Home Office<br>
+                            • Removal contractors<br>
+                            • Medical services<br>
+                            • Advocacy groups
+                        </td>
+                        <td>
+                            • Policy adherence verification<br>
+                            • Risk factor identification<br>
+                            • Systemic issue detection<br>
+                            • Cross-case pattern analysis
+                        </td>
+                        <td>
+                            • International legal obligations<br>
+                            • Cultural sensitivities<br>
+                            • Language barriers<br>
+                            • Political sensitivity
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="inquest-type">Hospital Deaths</div>
+                        </td>
+                        <td>
+                            • Medical records<br>
+                            • Treatment protocols<br>
+                            • Staff communications<br>
+                            • Equipment logs<br>
+                            • Patient monitoring data
+                        </td>
+                        <td>
+                            <div class="ai-application">Medical record analysis</div>
+                            <div class="ai-application">Treatment protocol compliance</div>
+                            <div class="ai-application">Clinical decision support review</div>
+                            <div class="ai-application">Medication error detection</div>
+                        </td>
+                        <td>
+                            • Families<br>
+                            • NHS Trust<br>
+                            • Medical professionals<br>
+                            • Regulators (CQC)<br>
+                            • Professional bodies
+                        </td>
+                        <td>
+                            • Clinical pathway analysis<br>
+                            • Error pattern identification<br>
+                            • Best practice comparison<br>
+                            • Learning opportunity identification
+                        </td>
+                        <td>
+                            • Medical complexity<br>
+                            • Professional standards<br>
+                            • Patient confidentiality<br>
+                            • Clinical judgment evaluation
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="inquest-type">Road Traffic Incidents (State Vehicle)</div>
+                        </td>
+                        <td>
+                            • Traffic camera footage<br>
+                            • Vehicle telematics<br>
+                            • Police pursuit logs<br>
+                            • Emergency service communications<br>
+                            • Scene reconstruction data
+                        </td>
+                        <td>
+                            <div class="ai-application">Video analysis for speed/trajectory</div>
+                            <div class="ai-application">Telematics data analysis</div>
+                            <div class="ai-application">Communication timeline analysis</div>
+                            <div class="ai-application">Scene reconstruction</div>
+                        </td>
+                        <td>
+                            • Families<br>
+                            • Police force<br>
+                            • Emergency services<br>
+                            • Highway authorities<br>
+                            • Insurance providers
+                        </td>
+                        <td>
+                            • Precise event reconstruction<br>
+                            • Technical analysis automation<br>
+                            • Multi-source data integration<br>
+                            • Expert evidence support
+                        </td>
+                        <td>
+                            • Technical complexity<br>
+                            • Multiple agencies involved<br>
+                            • Public safety implications<br>
+                            • Policy/training impacts
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            
+            <div class="note">
+                <strong>Key:</strong> Different inquest types require tailored AI approaches based on evidence characteristics, stakeholder needs, and legal frameworks. The effectiveness of AI applications varies significantly based on data quality and availability.
+            </div>
+        </div>
+    </div>
+</body>
+</html>
