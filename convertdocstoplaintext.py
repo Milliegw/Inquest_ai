@@ -1,7 +1,7 @@
 """
 Convert PDF documents to Markdown format.
 
-This script extracts text from PDF files and saves them as Markdown files
+This script extracts text from PDF files and saves them as Markdown and TXT files
 with a title heading based on the filename.
 """
 
@@ -21,7 +21,7 @@ def convert_pdf_to_markdown(
     verbose: bool = False
 ) -> bool:
     """
-    Convert a single PDF file to Markdown format.
+    Convert a single PDF file to Markdown and TXT format.
 
     Args:
         pdf_path: Path to the input PDF file.
@@ -83,17 +83,25 @@ def convert_pdf_to_markdown(
         # Ensure output directory exists
         os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else ".", exist_ok=True)
 
+        # Write Markdown file
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(markdown_content)
-
         if verbose:
             print(f"Saved: {output_path}")
+
+        # Write plain text file (without Markdown heading)
+        txt_path = output_path.replace('.md', '.txt')
+        if not os.path.exists(txt_path):
+            with open(txt_path, "w", encoding="utf-8") as f:
+                f.write(text)
+            if verbose:
+                print(f"Saved: {txt_path}")
+
         return True
 
     except Exception as e:
         print(f"Error processing {pdf_path}: {e}")
         return False
-
 
 def main():
     parser = argparse.ArgumentParser(

@@ -50,7 +50,7 @@ This section is for users new to software development who want to use this repos
 
 3. **Clone the Repository**: In the terminal, type the following command and press Enter to download this project:
    ```
-   git clone https://github.com/[your-username]/Inquest.git
+   git clone https://github.com/[your-username]/Inquest_ai.git
    ```
    Replace `[your-username]` with the actual username or organization hosting this repository if it's hosted on GitHub. If you have the repository locally or on another platform, adjust the URL accordingly.
 
